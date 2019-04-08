@@ -1,0 +1,1200 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 22:20:52) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+====================== RESTART: D:\crawler\crawler3.py ======================
+Link:  0
+Tieu de: 
+
+Hà Nội trở lại đỉnh bảng V-League 
+Tom tat: 
+
+Quang Hải ghi tuyệt phẩm, góp phần giúp CLB thủ đô hạ SLNA 4-0 ở vòng 4, tối 7/4. 
+Noi dung: 
+Ngay dang: 
+Chủ nhật, 7/4/2019, 18:28 (GMT+7)
+Link:  1
+Tieu de: 
+
+HTC - sự sụp đổ của một thương hiệu smartphone đầy hứa hẹn 
+Tom tat: 
+Từng được đánh giá cao nhờ loạt sản phẩm thiết kế đẹp, nhiều tính năng nhưng HTC giờ đây chỉ còn là cái bóng của chính mình.
+Noi dung: 
+
+Cách đây khoảng 10 năm, HTC được xem là thế lực trong làng di động. Công ty Đài Loan cũng chính là cái tên đầu tiên mang smartphone Android tới người dùng, trước khi hệ điều hành Google lớn mạnh như ngày nay. HTC Dream - chiếc điện thoại chạy Android thương mại hóa đầu tiên trên thế giới vẫn được nhắc đến như một phần lịch sử của hệ điều hành di động phổ biến nhất thế giới.
+
+Thị trường smartphone những năm gần đây có xu hướng về một thiết bị càng đơn giản càng tốt: màn hình viền mỏng, nguyên khối, tích hợp sạc không dây... Các chi tiết này thường được nhà sản xuất nhấn mạnh là ưu điểm trong cuộc đua giành danh hiệu chiếc điện thoại hoàn hảo nhất.
+
+Tuy nhiên, nếu nhìn lại quá khứ, có thể bạn sẽ giật mình khi HTC từng có nhiều ý tưởng lớn tương tự vậy. Chẳng hạn, HTC One ra mắt 2013 dùng nhôm nguyên khối khi iPhone vẫn dùng kính, hay bắt tay Beats Audio để trang bị loa kép mặt trước cho trải nghiệm âm thanh bằng loa ngoài vượt trội. Hoặc HTC Hero là smartphone đầu tiên có cổng giắc 3,5mm.
+
+Năm 2018, máy ảnh kép với chế độ chân dung là "cơn sốt", nhưng One (2014) đã có. Dù thiết kế chưa đẹp, ít tính năng, khả năng chụp hạn chế, không thể phủ nhận HTC đi trước thời đại qua smartphone này.
+
+Nhưng HTC cũng là nạn nhân của việc tiếp thị kém. Apple và Samsung là hai hãng cùng thời với công ty Đài Loan, cũng có những sản phẩm đi trước thời đại. Vậy tại sao HTC không phải là vua của thế giới điện thoại thông minh, hoặc ít nhất là một trong ba thương hiệu hàng đầu?
+
+Một số chuyên gia sau khi nghiên cứu về trường hợp của HTC đều cho rằng, ý tưởng tuyệt vời không có nghĩa là sẽ thành công nếu chúng không được truyền bá tốt. Cạnh tranh về sản phẩm công nghệ ngày nay là một "trò chơi tiếp thị".
+
+Lịch sử chứng minh tiếp thị có lẽ là điểm yếu lớn nhất của HTC. Khẩu hiệu ban đầu của hãng là "Quietly Brilliant" (tạm dịch: Toả sáng thầm lặng) không còn biểu đạt tham vọng cũng như sự đổi mới. Bên cạnh đó, những chiến dịch có phần kỳ lạ, điển hình Robert Downey Jr. quảng bá M9 bị nhận xét là khó hiểu vì rất ít liên quan đến sản phẩm.
+
+Trong thời kỳ đỉnh cao (2009), HTC phát hành hơn 100 điện thoại các loại. Điều đó thể hiện sự tiến bộ, cũng như nắm bắt thị trường tốt. Tuy vậy, việc ra quá nhiều sản phẩm trong thời gian ngắn khiến người dùng cho không thể tìm ra đâu là cao cấp, tầm trung và giá rẻ. Hậu quả tất yếu là sản phẩm bão hòa.
+
+Ngược lại, các đối thủ đang lên khi đó như Apple, Samsung ra mỗi năm chỉ một hoặc hai sản phẩm, giúp đơn giản hóa trong việc lựa chọn thiết bị cao cấp mà không phải lo lắng về thông số kỹ thuật. Có thể công ty iPhone bị nhận xét là cố chấp, cứng nhắc, nhưng rõ ràng nó mang lại hiệu quả hơn những gì HTC đã làm.
+
+HTC cũng đặt tên khá kỳ lạ và không hề theo trình tự khiến người dùng khó nhớ, chẳng hạn Salsa, Pyramid, Sensation, ChaCha (điện thoại dành riêng cho Facebook)... Trong khi đó, Samsung lại rất rạch ròi về vấn đề đặt tên: Galaxy S, Note là thiết bị cao cấp, Galaxy A thuộc tầm trung hay Galaxy J giá rẻ. "Nó giúp người dùng phân biệt từng loại sản phẩm mà không cần nhìn thông số kỹ thuật", một chuyên gia nhận xét.
+
+Công ty Đài Loan cũng khá bảo thủ trong việc hợp tác với nhà mạng. Nếu như các hãng khác xem đây là một trong những kênh phân phối quan trọng, HTC lại khá nhập nhằng. Chẳng hạn, U11 được đánh giá tốt từ các nhà phê bình, nhưng chỉ phân phối bởi Sprint. Đồng thời, việc loạt sản phẩm về sau ngày càng kém hấp dẫn cũng là lý do khiến nhà mạng thờ ơ không phân phối nữa, kể cả khi HTC có động thái ưu tiên.
+
+Ngoài ra, có thể xem HTC là nạn nhân của Google, khi những tinh hoa về bộ phận di động của hãng về tay công ty tìm kiếm. Năm 2017, HTC đồng ý bán đội ngũ thiết kế và phần lớn bằng sáng chế cho Google với giá 1,1 tỷ USD. 2.000 nhân viên thiết kế HTC sau đó cũng về làm việc trong bộ phận phát triển điện thoại Pixel. Giờ đây, Pixel bắt đầu có chỗ đứng trên thị trường và điều này có công rất lớn của HTC cộng thêm khả năng tiếp thị tốt.
+
+Sau một thập kỷ hoạt động tốt, giá cổ phiếu HTC đã giảm tới 75% trong 5 năm trở lại đây, cho thấy sự thụt lùi của một thương hiệu được kỳ vọng. Hãng vẫn là công ty công nghệ, nhưng có thể không còn là một nhà sản xuất điện thoại thực thụ.
+
+Thực tế, nguồn sống của doanh nghiệp Đài Loan đến từ Vive - thiết bị đi đầu cho trải nghiệm thực tế ảo (VR) cao cấp - thay vì một smartphone nào đó. Vive đã tạo ra doanh thu ban đầu cho HTC và chiếm 35,7% thị trường VR tính đến hết 2018.
+Ngay dang: 
+Thứ hai, 8/4/2019, 14:23 (GMT+7)
+Link:  2
+Tieu de: 
+
+Vì sao người Nhật luôn đúng giờ một cách tuyệt đối? 
+
+Tom tat: 
+Ở một đất nước mà chuyện muộn vài giây có thể tạo scandal, áp lực phải đúng giờ quá khắc nghiệt với nhiều người.
+Noi dung: 
+
+Tháng trước, Bộ trưởng An ninh mạng và Thế vận hội Nhật Bản Yoshitaka Sakurada đã buộc phải xin lỗi sau khi công chúng phẫn nộ và phe đối lập biểu tình vì ông đến họp muộn 3 phút.
+
+Không chỉ liên quan tới các quan chức, với các doanh nghiệp, tổ chức và cơ quan, đến đúng giờ là điều tối quan trọng tại Nhật. 
+
+Năm 2018, một chuyến tàu lửa đến sớm 25 giây đã bị chỉ trích gay gắt và đưa tin khắp Nhật Bản. Đây bị coi là một lỗi lớn của công ty đường sắt. "Sự bất tiện lớn chúng tôi đã gây ra cho khách hàng là không thể tha thứ", đại diện công ty xin lỗi.
+
+Từ nhỏ, người Nhật đã được dạy cần đúng giờ. "Bố mẹ luôn nói với tôi về tầm quan trọng của việc đúng giờ, và nghĩ tới việc những người khác sẽ bị phiền thế nào nếu tôi đến muộn, dù chỉ một chút. Tôi đã thấm nhuần điều đó", Issei Izawa, một sinh viên 19 tuổi cho biết.
+
+Chị Kanako Hosomura, một phụ nữ nội trợ 35 tuổi, sống tại tỉnh Saitama cho biết, chị rất ghét muộn giờ. "Tôi thích đến sớm hơn vì thà mình đợi người khác chứ không để ai phải chờ mình", Hosomuara nói và kể thêm là chị sẽ không làm bạn với những ai đến muộn và gây phiền cho mọi người. 
+
+Nhưng với nhiều người, văn hóa quá coi trọng việc đúng giờ có thể gây căng thẳng. "Bạn gái tôi làm việc tại một trung tâm trực điện thoại của công ty đường sắt. Tuần trước, khi cô ấy đi ăn trưa về, người quản lý bảo: 'Cô muộn 10 giây đấy'", một người đàn ông giấu tên kể. Anh cho biết, bạn gái mình còn bị cảnh cáo về lần muộn giờ đó. "Như vậy là quá khắc nghiệt", anh nói. 
+
+Nỗi ám ảnh của Nhật Bản với việc đúng giờ thường được các du khách xem như một điều ngạc nhiên kỳ thú. Nhưng, thực sự, sự chậm trễ ở nơi làm việc có ảnh hưởng tới nền kinh tế. 
+
+Ở Anh, các công nhân đi muộn gây tốn kém tới 9 triệu bảng, theo một báo cáo năm 2017. Hơn một nửa số người được khảo sát nói rằng họ thường xuyên đi làm, đến họp muộn.
+
+Nhưng Nhật Bản không phải là nước luôn đúng giờ, cho tới cuối những năm 1800. Trước thời công nghiệp hóa, Nhật Bản khá thoải mái với chuyện giờ giấc. "Người dân có vẻ đủng đỉnh và tàu lửa có khi chậm 20 phút", Willem Huyssen van Kattendijke, một sĩ quan người Hà Lan đến Nhật Bản vào những năm 1850, viết trong nhật ký.
+
+Trường học, nhà máy, đường sắt - những nơi tuân thủ nghiêm ngặt việc đúng giờ - là các tổ chức chính dẫn đầu sự thay đổi của xã hội Nhật. Các nhà máy đã áp dụng phương pháp quản lý theo khoa học nhằm nâng cao năng suất lao động.
+
+Quanh thời điểm này, đồng hồ trở thành vật dụng phổ biến và khái niệm một ngày 24 giờ trở nên quen thuộc với người dân. Hơn hết, theo nhà nghiên cứu Ichoro Oda, đây là lúc người Nhật nhận ra "thời gian là tiền bạc".
+
+Makoto Watanabe, phó giáo sư khoa truyền thông đại chúng Đại học Hokkaido Bunkyo, cho biết, kể từ đó, việc đúng giờ liên quan mật thiết tới năng suất trong các công ty và tổ chức. "Nếu công nhân đi muộn, công ty và phòng, ban sẽ phải chịu hậu quả", ông nói. "Về cá nhân, nếu không đúng giờ nghĩa là anh không thể hoàn thành những việc cần làm".
+
+Việc nhân viên tuân thủ kỷ luật và đúng giờ rất quan trọng với công ty, theo Mieko Nakabayashi, giảng viên khoa học xã hội tại Đại học Waseda. "Nếu không làm được việc này, bạn sẽ rất nhanh bị mang tiếng xấu ở công ty", bà nói. 
+
+Tuy nhiên, bà giải thích, đúng giờ không phải lúc nào cũng đi liền với hiệu quả. 
+
+Năm 1990, thảm kịch xảy ra tại tỉnh Hyogo khi một học sinh 15 tuổi bị cổng trường kẹp chết vì cô bé cố len vào lúc cổng đóng đúng 8 giờ 30 phút. Người bấm nút đóng cửa đã bị đuổi việc và vụ việc dấy lên cuộc tranh luận gay gắt.
+
+"Ngày đó, việc đóng cửa trường đúng giờ hay phạt học sinh đến muộn chạy 400-800 m là rất phổ biến", Yukio Kodata, 33 tuổi, một người Canada gốc Nhật nhớ lại. Anh cho biết, việc bị ghi đi học muộn trong học bạ có thể còn ảnh hưởng tới cơ hội vào đại học.
+
+Ngoài ra, việc đúng giờ cũng không bù lại được cho sự kém hiệu quả tại một số công ty và tổ chức ở Nhật. "Những cuộc họp diễn ra quá lâu, hầu hết mọi người đều không thực sự góp ý kiến, các khâu lặp đi lặp lại. Ngồi vào bàn làm việc lúc 9 giờ sáng cũng chẳng tạo được sự khác biệt thực sự nếu nhìn ở toàn cảnh", giáo sư khoa học xã hội Mieko nói. Bà còn nhấn mạnh thực tế rằng hầu hết các công ty Nhật yêu cầu nhân viên làm việc ngoài giờ hơn 80 tiếng mỗi tháng và không trả thù lao, theo một báo cáo năm 2016.
+
+Cuối cùng, việc quá coi trọng đúng giờ và thiếu giới hạn cho việc làm quá thời gian gây ảnh hưởng tới chất lượng cuộc sống, theo anh Yukio. 
+
+"Tại Nhật, tất cả mọi người đinh ninh rằng nếu người khác đang làm gì, thì họ cũng phải làm theo. Bạn sẽ bị bế tắc", anh nói. "Rất nhiều bạn tôi, những người từ Nhật sang Canada, đều không bao giờ muốn quay về nước. Họ thích Nhật Bản vì ẩm thực và giải trí nhưng không muốn quay về đó làm việc".
+
+"Thật vui khi ở Canada, bạn rời cơ quan lúc 5h và chào tạm biệt đồng nghiệp, nhưng ở Nhật Bản không thế", anh Yukio kể. 
+Ngay dang: 
+Thứ hai, 18/3/2019, 11:42 (GMT+7)
+Link:  3
+Tieu de: 
+
+'Lật mặt 4' sẽ phát hành ở Mỹ và Australia 
+Tom tat: 
+
+Phim do Lý Hải đạo diễn ra mắt từ ngày 19/4 ở sáu thành phố Mỹ và từ ngày 15/5 tại hai nơi ở Australia. 
+Noi dung: 
+
+Lý Hải cho biết việc đưa tác phẩm ra nước ngoài là kế hoạch dài hơi của anh, đồng thời giúp giới thiệu văn hóa Việt với khán giả quốc tế. Trong phim mới, ngoài câu chuyện hài pha kinh dị, anh lồng ghép nhiều cảnh đẹp cùng một số nét văn hóa Việt như lễ hội hoa đăng, phiên chợ vùng cao.
+
+Đạo diễn muốn hướng theo con đường của điện ảnh Hàn Quốc, có nhiều phim được khán giả Mỹ đón nhận. "Từ năm 2010 đến nay, doanh thu phim Hàn Quốc tại Mỹ đã tăng trưởng 40 lần. Tôi tin là để có được quả ngọt như thế, phải có người xây những viên gạch đầu tiên. Tôi mong khán giả quốc tế có cái nhìn tích cực hơn với điện ảnh Việt", anh nói.
+Ngay dang: 
+Thứ hai, 8/4/2019, 12:43 (GMT+7)
+Link:  4
+Tieu de: 
+
+Cách phạt đánh vào tâm lý của cảnh sát giao thông Trung Quốc 
+Tom tat: 
+Cảnh sát tỉnh Sơn Đông sẽ miễn phạt nếu người vi phạm giao thông tự viết lỗi trên mạng xã hội và tích đủ 30 like.
+Noi dung: 
+
+Người đi bộ, đi xe đạp, xe đạp điện hoặc máy điện vi phạm luật được coi là vấn đề nan giải trong quản lý giao thông. Để giải quyết vấn đề này, đại đội cảnh sát số hai, thành phố Tấn Thành, tỉnh Sơn Tây, Trung Quốc mới đây đã đưa ra sáng kiến gói xử phạt "chọn một trong ba".
+
+Theo đó, người vi phạm luật giao thông có quyền tự chọn một trong ba phương án xử phạt chính mình: "Xử phạt theo luật an toàn giao thông đường bộ", "Hỗ trợ cảnh sát, trải nghiệm cảm giác trực ca trong 30 phút", hoặc "Chép phạt kiến thức an toàn giao thông".
+
+Sáng kiến này vừa ra đời đã nhận được sự ủng hộ nhiệt liệt của nhiều người dân vì họ cho rằng cách xử phạt như vậy vừa nhân đạo, vừa thể hiện được nguyên tắc pháp luật là "giáo dục làm gốc, trừng phạt là phụ".
+
+Qua thời gian áp dụng, nhà chức trách phát hiện gói xử phạt này dù tốt nhưng chưa đạt được mục đích "phạt một người, răn đe nhiều người", hiệu quả và phạm vi tuyên truyền giáo dục vẫn chưa được lý tưởng.
+
+Để nâng cao hiệu quả, đại đội cảnh sát số hai thành phố Tấn Thành tiếp tục đưa ra lựa chọn thứ tư cho gói xử phạt là "Kể tội chính mình trên mạng xã hội". Theo đó, người vi phạm có thể đăng dòng trạng thái công khai thời gian, địa điểm, và lỗi vi phạm của mình lên trang mạng xã hội WeChat, đồng thời kêu gọi bạn bè không vi phạm pháp luật. Nếu bài đăng có đủ 30 lượt thích, người vi phạm sẽ được bỏ qua không bị xử lý.
+
+Lời đăng có mẫu như sau: "Sáng ngày 29/3, tôi lái xe đạp điện đi ngược chiều bị cảnh sát thành phố Tấn Thành phát hiện. Hiện tôi công khai lỗi lầm với bạn bè trên mạng xã hội, mong mọi người lấy tôi làm gương, tuân thủ luật khi tham gia giao thông, không vượt đèn đỏ, không đi ngược chiều. Xin giúp tôi có đủ 30 like".
+
+Từ khi gói xử phạt "chọn một trong bốn" được triển khai từ ngày 18/3 tới nay đã có hơn 150 cá nhân vi phạm chọn lựa phương án "đăng bài công khai lỗi". Số người được giáo dục gián tiếp đạt hơn 4.500 người, hiệu quả tuyên truyền giáo dục thể hiện rõ ràng.
+
+Một người bị phạt chia sẻ việc công khai lỗi vi phạm giao thông với bạn bè làm mình cảm thấy xấu hổ. Cách này không những có hiệu quả giáo dục với chính bản thân mà còn biến người vi phạm thành người tuyên truyền pháp luật, giúp phòng tránh xảy ra tai nạn.
+Ngay dang: 
+Thứ hai, 8/4/2019, 13:21 (GMT+7)
+Link:  5
+Tieu de: 
+
+Quy mô gần 10.000 tỷ, Gang thép Thái Nguyên lãi chưa tới 5 tỷ đồng	
+Tom tat: 
+
+Tổ hợp gang thép tại Thái Nguyên vừa công bố kết quả kinh doanh quý III với lợi nhuận giảm gần 90% so với cùng kỳ.	
+Noi dung: 
+
+Theo báo cáo tài chính hợp nhất mới công bố, Công ty cổ phần Gang thép Thái Nguyên (Tisco, mã CK: TIS) ghi nhận gần 2.900 tỷ đồng doanh thu trong quý III, tăng 59% so với cùng kỳ. Tuy nhiên, giá vốn tăng nhanh hơn tốc độ tăng của doanh thu, khiến lợi nhuận gộp từ hoạt động kinh doanh của Tisco giảm gần 20%.
+
+Cùng với doanh thu tài chính giảm sút chỉ bằng một phần ba cùng kỳ, khiến lợi nhuận dành cho cổ đông công ty mẹ trong quý III của Gang thép Thái Nguyên ghi nhận chưa tới 5 tỷ đồng, giảm gần 90% so với kết quả 44,5 tỷ cùng kỳ 2016.
+
+Lũy kế 9 tháng đầu năm, dù doanh thu của Giang thép Thái Nguyên tăng gần 1.200 tỷ đồng, đạt 7.200 tỷ nhưng nguyên nhân tương tự như quý III, giá vốn tăng mạnh, cùng sự thiếu hụt các khoản doanh thu tài chính đã khiến lợi nhuận công ty lao dốc. Sau 9 tháng, Tisco chỉ đạt hơn 78 tỷ đồng lợi nhuận, chưa tới một nửa so với cùng kỳ năm trước (207 tỷ đồng).
+
+Một trong những nguyên nhân khiến lợi nhuận Gang thép Thái Nguyên giảm mạnh trong giai đoạn năm 2017 là thiếu hụt khoản doanh thu tài chính. Kết quả này sau 9 tháng chỉ đạt 25 tỷ đồng, bằng một nửa so với cùng giai đoạn năm 2016.
+Ngay dang: 
+Thứ ba, 24/10/2017, 03:00 (GMT+7)
+Link:  6
+Tieu de: 
+
+Đề xuất gắn bảng điện tử 'xe hợp đồng' trên nóc xe Grab 
+Tom tat: 
+Xe Grab có thể phải gắn bảng điện tử kích thước 15x20 cm trên nóc xe, được bật sáng khi lưu thông. 
+Noi dung: 
+
+Bộ Giao thông Vận tải đang hoàn tất dự thảo lần 8 nghị định về điều kiện kinh doanh vận tải bằng ôtô.
+
+Khi vận chuyển hành khách theo hợp đồng, tài xế phải có thiết bị để truy cập được nội dung của hợp đồng điện tử và danh sách hành khách kèm theo do đơn vị kinh doanh vận tải cung cấp.
+
+Xe hợp đồng không được gom khách, đón khách ngoài danh sách do đơn vị kinh doanh vận tải cung cấp; không được ấn định hành trình để phục vụ cho nhiều hành khách hoặc nhiều người thuê khác nhau.
+
+Trong một tháng, xe hợp đồng điện tử phải có thời gian hoạt động tại địa phương nơi cấp phù hiệu tối thiểu 70% tổng thời gian hoạt động trong tháng. Việc xác định thời gian hoạt động được thực hiện thông qua dữ liệu từ thiết bị giám sát hành trình. 
+
+Ông Trần Bảo Ngọc, Vụ trưởng Vụ vận tải (Bộ Giao thông Vận tải) cho biết, trong tuần này, dự thảo nghị định tiếp tục được lấy ý kiến các bên liên quan, sau đó Bộ sẽ khẩn trương hoàn thiện để báo cáo Chính phủ trước ngày 15/4.
+
+Thời gian qua, Bộ Giao thông Vận tải nhận được ý kiến về xe hợp đồng điện tử theo hai nhóm. Thứ nhất, các hiệp hội taxi yêu cầu quy định chặt chẽ hoạt động của Grab, chịu sự quản lý như taxi, không thể gọi là loại hình "hợp đồng điện tử" vì không có trong Luật Giao thông đường bộ.
+
+Nhóm ý kiến thứ hai là Phòng Thương mại và Công nghiệp Việt Nam (VCCI), Viện nghiên cứu Quản lý kinh tế trung ương (CIEM) và một số chuyên gia kinh tế, đề nghị xe dưới 9 chỗ ứng dụng phần mềm khi chở khách sẽ được quản lý theo hợp đồng vận tải điện tử và bổ sung quy định về taxi điện tử.
+Ngay dang: 
+Thứ hai, 8/4/2019, 12:06 (GMT+7)
+Link:  7
+Tieu de: 
+
+Nhiệm vụ 'biểu tượng quốc gia và đoàn kết dân tộc' của Nhật hoàng 
+Tom tat: 
+Chủ trì các nghi lễ, tới thăm nơi chịu thiên tai hay các cơ sở phúc lợi cho người già, trẻ em là công việc quen thuộc của Nhật hoàng.
+Noi dung: 
+
+Vương triều Nhật Bản bắt đầu từ năm 660, khi hoàng đế Jimmu lên ngôi, trở thành nhà vua đầu tiên của đất nước. Nhà vua Akihito là hoàng đế thứ 125 của Nhật Bản. Ông lên ngôi ngày 7/1/1989 sau khi Nhà vua Hirohito (Nhật hoàng Chiêu Hòa) qua đời.
+
+Kể từ khi lên ngôi, Nhà vua Akihito cùng với Hoàng hậu Michiko đã thực hiện nhiều công việc mang ý nghĩa như một "biểu tượng quốc gia và đoàn kết dân tộc".
+
+Theo hiến pháp, Nhật hoàng không có quyền lực chính trị nhưng ông vẫn giữ một số nhiệm vụ có liên quan tới  bối cảnh chính trị của quốc gia, như ký văn bản phê chuẩn đề cử thủ tướng, các thành viên chính phủ hay thẩm phán Tòa án Tối cao. Nhật hoàng có vai trò quan trọng trong các vấn đề mang tính nghi thức, bao gồm khai mạc các phiên họp quốc hội, công bố các đạo luật, hiệp ước mới, trao tặng huân chương hay nhận quốc thư từ các đại sứ.
+
+Nhật hoàng mỗi năm ký khoảng 1.000 văn bản và ông luôn nghiên cứu kỹ nội dung của từng văn bản. Những chuyến thăm của nguyên thủ nước ngoài tới Nhật Bản sẽ không được xếp vào cấp nhà nước nếu họ không hội kiến Nhật hoàng và dự tiệc chiêu đãi tại cung điện.
+
+Nhà vua và Hoàng hậu Nhật Bản tham gia hoặc chủ trì hàng trăm nghi lễ, tiệc chiêu đãi, sự kiện biểu diễn liên tục được tổ chức trong năm và tiếp đón những vị khách đến thăm cung điện, như chính trị gia, doanh nhân thế giới hay các nhà hoạt động xã hội.
+
+Các thành viên trong hoàng gia Nhật Bản luôn phải cẩn thận trong từng lời nói bởi họ bị cấm nêu ý kiến có thể được coi là can thiệp vào bối cảnh chính trị.
+
+Nhật hoàng còn đóng vai trò quan trọng trong những nghi lễ Thần đạo, tôn giáo bản địa của người Nhật, trong đó có cầu nguyện cho tổ tiên hay cầu mùa màng bội thu.
+
+Nhật hoàng và Hoàng hậu thường tới thăm các địa điểm chịu thiên tai, thảm họa trên khắp đất nước để gặp gỡ, chia sẻ với những người sống sót. Năm 2011, Nhật hoàng Akihito có bài phát biểu trước quốc gia vài ngày sau thảm họa sóng thần nhằm trấn an dân chúng. Liên tiếp 4 năm liền từ 2012 đến 2016, Nhật hoàng Akihito và Hoàng hậu Michiko đã tổ chức lễ tưởng niệm nhằm tưởng nhớ các nạn nhân của thảm họa.
+
+Nhật hoàng và Hoàng hậu cũng tới thăm hàng trăm cơ sở phúc lợi cho trẻ em, người già và người tàn tật trên cả nước.
+
+Mỗi năm, họ lại chủ trì một số lễ hội quốc gia để quảng bá thể thao và thúc đẩy bảo vệ môi trường. Những năm gần đây, Nhật hoàng và Hoàng hậu vẫn có các chuyến công du nước ngoài dù ít hơn nhiều so với những năm còn trẻ. Nhật hoàng giờ đây giao lại nhiệm vụ này cho các thành viên khác trong hoàng gia.
+
+Cả Nhà vua và Hoàng hậu đều thích sáng tác "waka", một loại thơ truyền thống của Nhật Bản gắn liền với hoàng gia.
+
+Tháng một hàng năm, Nhật hoàng tổ chức đọc thơ mừng năm mới truyền thống tại cung điện. Các bài thơ do Nhà vua và Hoàng hậu cũng như của người dân bình thường được đọc trước hoàng gia và phát trên sóng truyền hình quốc gia.
+
+Giống như cha mình, Nhật hoàng Akihito hàng năm đều trồng và thu hoạch lúa tại một cánh đồng trong khuôn viên cung điện hoàng gia. Ông còn là một nhà khoa học đam mê sinh vật biển và từng viết nhiều bài báo.
+
+Nhật hoàng Akihito phát hiện ra giống cá bống trắng mới trên thế giới tại một nhánh sông Cần Thơ (khi làm luận án tiến sĩ nghiên cứu về cá ở miền Nam Việt Nam những năm 1970) và đã gửi tặng tiêu bản mẫu cá bống này cho Bảo tàng Động vật trường Đại học Tổng hợp Hà Nội (nay là Bảo tàng Sinh học, Đại học Khoa học Tự nhiên) năm 1974.
+
+Hoàng hậu Michiko là một nghệ sĩ piano, đồng thời rất yêu thích âm nhạc. Bà còn nuôi tằm để lấy nguyên liệu dệt vải.
+
+Một ngày bình thường của Nhật hoàng Akihito bắt đầu vào 6h30. Sau khi thức dậy, ông xem tin tức rồi dạo quanh hoàng cung ở Tokyo cùng Hoàng hậu Michiko.
+
+Nếu thời tiết không thuận lợi, Nhật hoàng sẽ đi dạo trên chiếc xe Honda Integra hơn 15 năm tuổi. Nhật hoàng tuân thủ mọi luật lệ giao thông ngay cả khi những con đường bên trong Hoàng cung đều cấm các phương tiện bên ngoài.
+
+Giữa ngày, Nhật hoàng bận rộn với các công việc nhà nước hay dành thời gian nghiên cứu sinh học.
+
+Hầu hết các buổi tối, Nhật hoàng thường tham dự tiệc chiêu đãi. Ngoài ra, Nhật hoàng và Hoàng hậu còn thích xem những chương trình về tự nhiên trên tivi và đọc một số tạp chí Nhật Bản.
+
+Cuối tuần, Nhà vua và Hoàng hậu có thể chơi môn thể thao cả hai cùng yêu thích là tennis.
+Ngay dang: 
+Thứ bảy, 6/4/2019, 00:00 (GMT+7)
+Link:  8
+Tieu de: 
+
+Hồ Văn Cường hát, nhảy sôi động trước 20.000 khán giả Cần Thơ 
+Tom tat: 
+
+Ca sĩ nhí kết hợp vọng cổ với tân nhạc trong bài "Anh Ba Khía" ở chương trình "Vũ hội ngoài trời", tối 21/4.  
+Noi dung: 
+Ngay dang: 
+Thứ bảy, 22/4/2017, 16:44 (GMT+7)
+Link:  9
+Tieu de: 
+
+Mazda CX-8 - xe 7 chỗ sẽ ra mắt Việt Nam tháng 6 
+Tom tat: 
+CX-8 về Việt Nam cạnh tranh Honda CR-V bản 7 chỗ, giai đoạn đầu nhập khẩu nguyên chiếc, sau đó có thể tiến tới lắp ráp trong nước. 
+Noi dung: 
+
+Đại diện Trường Hải, nhà phân phối thương hiệu Mazda cho biết sắp giới thiệu đến người tiêu dùng Việt mẫu crossover ba hàng ghế CX-8. Khi có mặt trên thị trường, Mazda CX-8 lẫn đàn em CX-5 đánh chiếm phân khúc xe gia đình gầm cao cỡ C. 
+
+Thiết kế ngoại thất đậm dấu ấn ngôn ngữ Kodo đề cao sự đơn giản. Ngoại, nội thất như bản sao của CX-5. Mazda CX-8 dài 4.900 mm, rộng 1.840, cao 1.730 mm, chiều dài cơ sở 2.930 mm. Những thông số này tương đương CX-5 về độ rộng, trong khi nhỉnh hơn về chiều dài, chiều cao và trục cơ sở tương đương CX-9. Xe cung cấp hai cấu hình, 6 và 7 chỗ. Mẫu xe sắp ra mắt tại Việt Nam nhiều khả năng bản 7 chỗ.
+
+Trường Hải chưa tiết lộ giá bán dự kiến cũng như các phiên bản động cơ cho khách hàng lựa chọn. Ở lần xuất hiện gần nhất tại quốc gia láng giềng Malaysia hồi tháng 2/2019, Mazda CX-8 có bốn phiên bản, trong đó ba bản máy xăng và một máy dầu.
+
+Cụ thể, bản máy dầu trang bị động cơ turbodiesel 2,2 lít SkyActiv-D, 4 xi-lanh công suất 188 mã lực tại vòng tua 4.500 vòng/phút và mô-men xoắn 450 Nm tại 2.000 vòng/phút. Chỉ có bản máy dầu này trang bị hệ thống dẫn động 4 bánh.
+
+Ba bản máy xăng còn lại đều chung động cơ 2,5 lít SkyActiv-G, 4 xi-lanh công suất 192 mã lực tại vòng tua 6.000 vòng/phút và mô-men xoắn 257 Nm tại 3.250 vòng/phút. Các phiên bản này có hệ dẫn động cầu trước và hộp số tự động 6 cấp.
+
+CX-8 bắt đầu bán ra tại Nhật Bản từ tháng 9/2017. Tại Malaysia, Mazda CX-8 giá khoảng từ 44.000 USD. Đây cũng là quốc gia lắp ráp CX-8 và xuất khẩu sang một số nước trong khu vực. Chưa rõ sản phẩm sắp ra mắt tại Việt Nam liệu nhập khẩu từ nước này hay không.
+
+Honda CR-V, Nissan X-Trail và Outlander hiện cung cấp cấu hình ba hàng ghế. Đây được xem là nguyên nhân chính khiến Mazda ra mắt CX-8. Xét về kích thước, CX-8 dài hơn CR-V khoảng 300 mm.
+
+Tại Việt Nam, Honda CR-V vẫn là đối thủ chính của Mazda CX-5. Lợi thế lắp ráp trong nước, mức giá rẻ hơn giúp CX-5 chiếm ưu thế trước mẫu xe nhà Honda. Tuy nhiên với thế hệ mới nhập khẩu Thái Lan, CR-V đang thu hẹp khoảng cách với CX-5 nhờ thiết kế thể thao và đặc biệt là cấu hình 7 chỗ, điều mà CX-5 không có.
+
+Sự có mặt của CX-8 bổ sung sức cạnh tranh của Trường Hải ở phân khúc crossover hạng C với Honda. Mức giá của Mazda CX-5 hiện là 899-1.019 triệu đồng, Honda CR-V 983-1.093 triệu đồng, Nissan X-Trail 991-1.083 triệu đồng.
+Ngay dang: 
+Thứ hai, 8/4/2019, 11:39 (GMT+7)
+Link:  10
+Tieu de: 
+
+Đề xuất giao ACV đầu tư mở rộng sân bay Tân Sơn Nhất 
+Tom tat: 
+Việc đầu tư xây dựng nhà ga T3 có công suất 20 triệu khách mỗi năm được các bộ ngành thống nhất giao cho ACV thực hiện. 
+Noi dung: 
+
+Uỷ ban quản lý vốn Nhà nước tại doanh nghiệp (Ủy ban) vừa có văn bản đồng thuận với đề xuất của Bộ Giao thông Vận tải về việc giao cho Tổng công ty Cảng hàng không (ACV) đầu tư thêm một nhà ga tại Tân Sơn Nhất. 
+
+Theo Ủy ban, Tân Sơn Nhất là một trong 21 cảng đang được ACV quản lý, khai thác từ khu bay, sân đỗ máy bay, nhà ga hành khách, do đó, việc doanh nghiệp này khai thác thêm nhà ga T3 Tân Sơn Nhất sẽ đảm đảm nguyên tắc mỗi sân bay chỉ có một nhà khai thác; đồng thời tạo thuận lợi cho việc khai thác đồng bộ dây chuyền phục vụ nhà ga T3 với các nhà ga hiện có.  
+
+Ủy ban quản lý vốn nhà nước cũng nêu ACV là doanh nghiệp hoạt động theo mô hình công ty cổ phần với tỷ lệ vốn nhà nước chi phối gần như tuyệt đối (95,4%), có năng lực, kinh nghiệm trong quản lý các cảng hàng không, sân bay và nguồn lực đảm bảo dự án nhu cầu vốn. 
+
+Tháng 3, Bộ Giao thông Vận tải trình Chính phủ phê duyệt chủ trương đầu tư dự án xây dựng nhà ga hành khách T3, sân bay Tân Sơn Nhất. Bộ đã đề xuất 4 hình thức đầu tư gồm, giao cho ACV thực hiện bằng nguồn vốn của doanh nghiệp; sử dụng ngân sách nhà nước; thành lập tổ chức kinh tế để đầu tư; đầu tư xây dựng theo hình thức PPP. 
+
+Sau khi tính toán các phương án, Bộ Giao thông Vận tải kiến nghị Thủ tướng giao ACV đầu tư nhà ga T3 vì đây là doanh nghiệp cổ phần nhà nước chi phối, có năng lực đầu tư qua các công trình quan trọng như xây dựng nhà ga hành khách T2 Nội Bài; mở rộng sân bay Phú Quốc; Vinh; Thọ Xuân; Pleiku, Cát Bi...
+
+Lãnh đạo Bộ Giao thông Vận tải cho hay Thủ tướng sẽ quyết định phương án đầu tư nhà ga hành khách T3 sau khi xem xét tờ trình của các bộ, ngành. 
+
+ACV đề xuất xây dựng nhà ga T3 công suất thiết kế 20 triệu khách mỗi năm, tổng diện tích mặt sàn khoảng 100.000 m2. Nhà ga sẽ được trang bị nhiều thiết bị, công nghệ hiện đại; dự kiến tổng kinh phí dự án hơn 11.430 tỷ đồng.
+
+Nhà ga T3 đã được Bộ Giao thông Vận tải phê duyệt quy hoạch, nằm trong khu vực đất 16,37 ha được Bộ Quốc phòng bàn giao. 
+Ngay dang: 
+Thứ hai, 8/4/2019, 14:28 (GMT+7)
+Link:  11
+Tieu de: 
+
+Camera nhà tôi hỏng 3 năm nhưng trộm không dám dòm ngó 
+Tom tat: 
+Có thiết bị giám sát nhưng nhà tôi vẫn bị trộm, đến khi dán thông báo "camera" thì khác hẳn.
+Noi dung: 
+
+Tôi từng kinh doanh camera giám sát nên thấy có 3 điều mà các công ty nhỏ hay các hộ kinh doanh tự phát nên làm khi lắp thiết bị giám sát.
+
+1. Ở một nơi diện tích nhỏ từ 20m2 trở xuống, nên lắp 2 camera loại nhìn gần cho rẻ. Một cái trên đỉnh để không có góc chết, một cái góc trên cùng để nhìn rõ mặt. Đa số khách hàng đều chọn lắp một cái ở góc trên, khi khách đứng ngay phía dưới sẽ không quan sát được (góc chết).
+
+2. Camera ít hỏng nên không cần mua loại đắt tiền. Nhưng sau thời gian 2-5 năm (tùy loại) là phải thay mới kể cả loại đắt nhất. Lý do là các mắt hồng ngoại hỏng, nếu phải thay thì nên mua mới tốt hơn.
+
+Nhà tôi lắp camera trộm vẫn cứ hỏi thăm. Từ khi dán chữ CAMERA thật lớn thì không ai dòm ngó nữa. Kể cả khi camera hỏng 3 năm nay nhưng chúng vẫn không dám manh động. Thiết bị hỏng nhưng chữ CAMERA vẫn làm chúng sợ
+
+Camera nói ở trên là chỉ chống trộm nhỏ. Nếu lắp ở những nơi mà có thể chống được cả " trộm to " thì giá trị của nó sẽ được nâng lên một tầm cao mới.
+Ngay dang: 
+Thứ hai, 8/4/2019, 10:38 (GMT+7)
+Link:  12
+Tieu de: 
+
+Golfer Hàn Quốc vô địch ANA Inspiration 2019	
+Tom tat: 
+
+Ko Jin-young giành major đầu tiên trong sự nghiệp, với tổng điểm -10 tại sân đấu Mission Hills.	
+Noi dung: 
+
+Bước vào vòng cuối với lợi thế dẫn một gậy so với nhóm bám đuổi, Ko nhanh chóng gia tăng cách biệt lên thành ba gậy với ba birdie sau 11 hố đầu. Cùng lúc, golfer nhì bảng vòng ba Kim In-kyung dính một bogey và một double-bogey, tự loại bản thân khỏi cuộc đua vô địch.
+
+Hai bogey liên tiếp ở hố 13 và 15 khiến Ko chỉ cách đồng hương Lee Mi YHyang một gậy. Nhưng Lee không thể tận dụng được cơ hội để bứt lên. Cô đạt par trong cả sáu hố cuối, trong khi Ko có thêm hai birdie ở các hố 16 và 18.
+
+Điểm -2 ở vòng cuối và -10 chung cuộc giúp Ko Jin Young giành chức vô địch major đầu tiên, đồng thời có lần thứ tư đăng quang tại LPGA Tour. Đây là danh hiệu thứ hai của golfer số năm thế giới chỉ trong hai tuần. Với năm lần kết thúc trong top ba ở sáu giải gần nhất, golfer 23 tuổi là người có phong độ cao nhất LPGA Tour hiện tại.
+
+Golfer Hàn Quốc cũng là người duy nhất đánh cả bốn vòng không quá 70 gậy tại ANA Inspiration. Cô bỏ cách người về nhì Lee Mi Hyang ba gậy. Ko nhận số tiền thưởng 450.000 đôla cho nhà vô địch, duy trì đỉnh bảng tiền thưởng của hệ thống trong mùa giải này.
+
+Người đạt thành tích tốt thứ ba là Lexi Thompson, golfer Mỹ đánh 67 gậy (par72) ở vòng bốn và đạt điểm -6 chung cuộc. Kim In-kyung rớt xuống T4, với cùng điểm -5 như golfer Tây Ban Nha Carlota Ciganda.
+Ngay dang: 
+Thứ hai, 8/4/2019, 14:14 (GMT+7)
+Link:  13
+Tieu de: 
+
+Thang máy có tốc độ hơn 300 m/phút ở Mỹ 
+Tom tat: 
+Thành phố Chicago đang xây thang máy nhanh nhất và cao nhất Bắc Mỹ, chỉ mất một phút để lên tới độ cao hơn 300 mét.
+Noi dung: 
+Ngay dang: 
+Thứ hai, 8/4/2019, 12:00 (GMT+7)
+Link:  14
+Tieu de: 
+
+Ca ghép gan đầu tiên tại Việt Nam thành công 
+Tom tat: 
+
+Giáo sư Phạm Gia Khánh, giám đốc Học viện Quân y, đã chính thức khẳng định như vậy hơn 3 tháng sau ngày thực hiện ca đại phẫu đáng nhớ này. Bé Diệp 10 tuổi đã hoàn toàn khoẻ mạnh, chạy nhảy và ăn uống tốt. Dự kiến, cháu sẽ được xuất viện vào ngày 1/6, tết của thiếu nhi. 
+Noi dung: 
+Giai đoạn nguy hiểm nhất trong thời kỳ hậu phẫu là 40 ngày đầu tiên. Diệp phải chống đỡ với 3 đợt thải ghép cấp và 2 lần biến chứng do mang trong mình bộ phận lạ là gan của bố. Tuy nhiên, được sự chăm sóc tận tình của các bác sĩ, cháu đã vượt qua những thử thách này và 2 tháng trở lại đây sức khỏe khá hơn nhiều. Tháng 9 tới, cháu Diệp có thể đi học bình thường.
+Giáo sư Lê Thế Trung, đồng chủ tịch Hội ghép gan Học viện Quân y, cho biết hiện Diệp tăng được 2 kg, các chỉ tiêu sinh lý rất tốt. Mỗi ngày cháu ăn được hai bát cơm, và chỉ phải uống 3 loại thuốc chống đào thải như với các bệnh nhân ghép thận. Bố cháu, anh Nguyễn Văn Phỏng, đã ra viện từ một tháng trước, hoàn toàn khỏe mạnh và có thể làm việc được bình thường. 
+Cũng theo ông Trung, ban đầu các bác sĩ dự định cho Diệp ra viện ngày 7/5, song để đảm bảo điều kiện tốt nhất cho cháu, Học viện đã quyết định hoãn đến khoảng 1/6. Tuy nhiên, việc xuất viện này cũng chỉ là hình thức, bởi nếu điều kiện vệ sinh ở quê nhà không đảm bảo, cháu có thể mắc các bệnh khác. Vì thế, Học viện quân y đang xem xét hai khả năng, hoặc là cho cháu về hẳn quê và đề nghị trạm y tế xã, tỉnh có chế độ chăm sóc đặc biệt. Hoặc Diệp vẫn ở quê, nhưng Học viện vẫn tiếp tục chăm sóc cho cháu theo từng đợt. 
+Mối lo lắng lớn nhất của các bác sĩ và gia đình giờ đây là chi phí tốn kém sau khi ra viện. Mỗi tháng, Diệp cần có khoảng 4 triệu đồng cả tiền thuốc và chi phí sinh hoạt, tương ứng với 50 triệu đồng một năm. Đến nay, đã có một nhà hảo tâm hứa tặng cho cháu 100 triệu tiền thuốc, là lương y Đinh Thị Phiển, Giám đốc Trung tâm Y học Dân tộc tỉnh Hoà Bình. Tuy nhiên, số tiền này vẫn chưa thể đủ. Hiện tại Học viện Quân y đã đề nghị Bộ Y tế hỗ trợ, và kêu gọi xã hội cùng hợp tác hỗ trợ cho bệnh nhân ghép gan đầu tiên của Việt Nam. 
+Cũng theo giáo sư Lê Thế Trung, sau ca đầu tiên, đã có 3 đơn vị khác của Việt Nam có nhu cầu tiếp nhận công nghệ này, là Bệnh viện Nhi trung ương, Việt Đức (Hà Nội) và Chợ Rẫy (TP HCM). Trước mắt, vào cuối tháng này, Bệnh viện Nhi trung ương sẽ tiến hành một ca ghép thận, để chuẩn bị kỹ thuật cho ca ghép gan ở trẻ em vào cuối năm nay. Đây cũng là ca ghép thận đầu tiên của bệnh viện Nhi trung ương. Hai bệnh viện còn lại đang trong giai đoạn chuẩn bị chọn người ghép gan, và sẽ tiến hành trên người lớn. 
+Bích Hạnh
+ 
+Ngay dang: 
+Thứ bảy, 8/5/2004, 09:24 (GMT+7)
+Link:  15
+Tieu de: 
+
+Sự nghiệp thăng trầm của Chủ tịch Korean Air vừa qua đời	
+Tom tat: 
+
+Cho Yang-ho đã đưa Korean Air từ một hãng hàng không ngập trong rắc rối tới hãng bay hàng đầu thế giới.	
+Noi dung: 
+
+Trong nhiệm kỳ của ông, doanh thu Korean Air đã tăng từ chưa đầy 2 tỷ USD lên 12,65 tỷ USD năm 2018. Đội bay cũng tăng gấp đôi, lên 167 phi cơ và số điểm đến tăng gần gấp ba, lên 124.
+
+Cho đã giúp Korean Air có vị thế trên toàn cầu năm 2000, khi là một trong các thành viên sáng lập Liên minh hàng không Skyteam cùng Air France, lập liên doanh với Delta Air Lines và mở hàng loạt đường bay đến Bắc Mỹ. Ngoài hàng không, ông còn là người đứng đầu hội đồng đã mang Olympic Mùa đông 2018 đến Hàn Quốc.
+
+Năm ngoái, con gái thứ hai của ông - Cho Hyun-min ném chai nước vào mặt một nhân viên trong cuộc họp. Còn vợ ông - Lee Myung-hee đã nhiều lần bị cảnh sát thẩm vấn vì các cáo buộc xúc phạm và có hành vi bạo lực với nhân viên.
+
+Tháng trước, cổ đông Korean Air đã bỏ phiếu loại ông Cho khỏi hội đồng quản trị vì hàng loạt scandal của các thành viên trong gia đình. Ông là thành viên gia đình sáng lập đầu tiên của một công ty lớn tại Hàn Quốc bị cách chức theo cách này.
+
+Sau thông tin Cho qua đời, cổ phiếu Korean Air sáng nay có lúc tăng tới 8%. Cổ phiếu Hanjin Kal - công ty mẹ của Korean Air thậm chí tăng tới 20%. Nhà đầu tư kỳ vọng hãng bay lớn nhất Hàn Quốc sẽ có bộ máy lãnh đạo mới, hoặc được chuyển giao cho thế hệ trẻ hơn của nhà Cho để dần lấy lại hình ảnh.
+Ngay dang: 
+Thứ hai, 8/4/2019, 12:27 (GMT+7)
+Link:  16
+Tieu de: 
+Hoa anh đào nở rộ ở cố đô Hàn Quốc
+Tom tat: 
+
+Thành phố cổ kính Gyeongju trở nên lãng mạn nhờ sắc hoa anh đào phủ khắp con đường.	
+Noi dung: 
+
+Gyeongju, kinh đô của Hàn Quốc ở triều đại Silla, thường được biết đến như một “bảo tàng lịch sử không mái” với những khu lăng mộ, đền đài, chùa tháp và cung điện gợi nhắc về triều đại kéo dài hơn 1.000 năm lịch sử.
+
+Đến đây vào những ngày đầu tháng 4, du khách còn bất ngờ trước khung cảnh hoa anh đào nở rộ ở các con đường hay điểm du lịch trong thành phố.
+
+Địa hình chủ yếu ở Hàn Quốc là đồi núi. Chính vì vậy, nhiều sườn núi, dốc đèo vào những ngày này như khoác lên mình chiếc áo mới.
+
+Mùa xuân ở xứ sở kim chi thường bắt đầu từ cuối tháng hai và kéo dài cho đến hết tháng tư. Thời gian hoa anh đào nở thường rất ngắn. Hoa nở rộ chừng 10 ngày và chỉ cần một vài cơn mưa hoặc gió lớn, hoa sẽ rụng đồng loạt.
+
+Hoa anh đào còn là biểu tượng của mùa xuân xứ Hàn, khi nở đồng loạt từ những cành cây khẳng khiu sau mùa đông. Trước đó cũng có nhiều loài hoa đua nở như hoa mơ trắng, hoa sơn thù du, hoa đỗ quyên, hoa chuông vàng, hoa cải dầu…
+
+Những cánh hoa anh đào ở khu vực này có kích thước không lớn, mỗi hoa chừng 5 - 7 cánh, màu hồng nhạt. Hoa trở nên lấp lánh hơn dưới ánh nắng. Do được trồng san sát, hoa nở rộ với mật độ dày tạo thành mái che trên lối đi, vừa mát vừa đẹp mắt.
+
+Thời gian lý tưởng nhất để chụp ảnh cùng hoa là buổi sáng, lúc những tia nắng còn dịu nhẹ. Nhiệt độ ở Hàn Quốc thời gian này dao động từ 5 đến 12 độ C, bạn nên chuẩn bị áo khoác dày.
+
+Các con đường có hoa anh đào nở rộ thường được người dân, du khách tìm đến tham quan, đi dạo và chụp ảnh.
+
+Trong các công viên, nhiều gia đình, nhóm bạn bè chọn tán cây hoa anh đào làm nơi nghỉ chân, hóng gió.
+
+Hiện không có đường bay thẳng từ Việt Nam đến Gyeongju. Du khách từ TP HCM hoặc Hà Nội phải bay đến Seoul hoặc Busan. Hãng hàng không quốc gia Vietnam Airlines hiện là đơn vị có các chuyến bay đến đây với tần suất cao.
+Ngay dang: 
+Thứ hai, 8/4/2019, 02:08 (GMT+7)
+Link:  17
+Tieu de: 
+
+Ngày hội đánh nhau bằng gối ở Anh, Mỹ 
+Tom tat: 
+Đám đông tại nhiều thành phố trên thế giới tham gia Ngày Quốc tế Đấu gối ở các địa điểm công cộng nhằm giải tỏa căng thẳng.
+Noi dung: 
+Ngay dang: 
+Thứ hai, 8/4/2019, 14:11 (GMT+7)
+Link:  18
+Tieu de: 
+
+Lý Hải dựng cối xay gió 14 m quay cảnh đám cưới cho 200 cặp 
+Tom tat: 
+
+Đạo diễn đầu tư cho đại cảnh 400 cô dâu, chú rể chạy trên đồng cỏ trong phim hài - kinh dị "Lật mặt 4". 
+Noi dung: 
+
+Phân đoạn nằm ở đầu phim, quy tụ 400 diễn viên quần chúng. Theo kịch bản, các cặp cô dâu, chú rể sẽ chạy đua đến cối xay gió để giành vị trí đẹp nhất trong ngày cưới. Êkíp Lý Hải mất nửa tháng dựng một cối xay gió cao 14 m. Tổng nhân lực để quay cảnh này là gần 1.000 người. Đây là một trong những cảnh được đầu tư nhất phim.
+
+Lý Hải cũng xây dựng nhiều bối cảnh khác cho phim. Câu chuyện xoay quanh nhóm bạn đến thăm nhà của một thành viên nằm trong rừng sâu ở Đà Lạt và gặp nhiều tình huống ly kỳ. Để tăng độ rùng rợn, đạo diễn dựng lên một nghĩa địa giả với hàng trăm ngôi mộ được đắp đất, dựng bia giữa rừng núi.
+
+Ở một cảnh chợ phiên tại cao nguyên, do không tìm được bối cảnh phù hợp, Lý Hải bày một phiên chợ giả với các món hàng hóa, loài vật đặc trưng vùng cao. Toàn bộ diễn viên quần chúng là người dân tộc tại địa phương. Cuối phim, các nhân vật dạo chơi trong lễ hội hoa đăng. Lý Hải bài trí lại các cây cầu, dựng thêm một chiếc cầu phao để các diễn viên bước ra, thả hàng trăm cây đèn xuống sông.
+Ngay dang: 
+Thứ tư, 3/4/2019, 08:53 (GMT+7)
+Link:  19
+Tieu de: 
+
+Chánh án Tòa tối cao Mỹ mong con 'gặp xui xẻo và thất bại' 
+
+Tom tat: 
+John Roberts còn muốn con có thể bị đối xử bất công, xui xẻo và đau đớn trong cuộc sống.
+Noi dung: 
+
+John Roberts, sinh năm 1955, hiện là Chánh án đương nhiệm Tòa án Tối cao Mỹ. Ông từng "gây bão" với nguyên tắc dạy con rất khác biệt: Không mong con gặp toàn điều tốt đẹp, mà muốn con nếm trải nhiều cung bậc đau khổ, cô đơn, bị phản bội... trong cuộc sống.
+
+Trong bài phát biểu tại buổi lễ tốt nghiệp trung học của con trai Jack tại trường nội trú nam Cardigan Mountain, ở New Hampshire năm 2017, John Roberts khiến nhiều người bất ngờ khi mở đầu bằng câu nói: "Thông thường những người diễn thuyết trong các lễ tốt nghiệp sẽ chúc con may mắn và mọi điều tốt đẹp trong tương lai sẽ đến với con. Ta sẽ không làm thế. Và giờ ta sẽ nói tại sao".
+
+Ông chậm rãi đưa ra những dẫn chứng cho lời nói của mình: "Từ giờ về sau ta hy vọng con sẽ bị đối xử bất công, bởi chỉ có thế con mới cảm nhận được giá trị của sự công bằng. Ta hy vọng con có thể nếm trải một chút mùi vị của sự phản bội, bởi như vậy con mới lĩnh hội được tầm quan trọng của sự chân thành".
+
+Ông cũng muốn con trai cảm nhận được sự cô đơn hàng ngày để hiểu rằng bạn bè là thứ không phải trời cho, bản thân cần phải trân trọng và giữ gìn để duy trì mối quan hệ tốt đẹp đó. Ông cũng hy vọng con trai sẽ gặp những đau đớn để học cách cảm thông, chia sẻ với người khác.
+
+"Ta hy vọng con có thể gặp xui xẻo một vài lần, bởi chỉ có như vậy con mới hiểu được ý nghĩa của cơ hội và vận may trong đời... Ta hy vọng khi con gặp thất bại, từ nay về sau còn nhiều, đối thủ sẽ châm chọc và cười nhạo trên sự đau khổ của con, như vậy con mới hiểu có phong độ rốt cuộc quan trọng như thế nào. Ta hy vọng thi thoảng con bị người khác coi thường, có như vậy con mới biết cách tôn trọng và lắng nghe quan trọng ra sao", John Roberts chia sẻ trong bài phát biểu.
+
+Vị chánh án 64 tuổi cho hay dù ông có hy vọng hay không thì những điều này sớm muộn cũng xảy ra trong cuộc sống của con trai mình. Ông muốn cậu bé có thể "sống là chính mình", không để cái tôi quá lớn mà luôn phải cố gắng hoàn thiện bản thân. 
+
+Để tăng sức nặng cho những lời mình nói, ông đưa ra dẫn chứng về Socrates, một nhà triết học Hy Lạp: "Ông ấy từng nói cuộc sống mà không có những trải nghiệm thì không đáng sống. Và bí quyết quan trọng để sống một cuộc đời tốt đẹp đó là đừng cố gượng ép có một cuộc sống tốt đẹp. Cách tốt nhất để không đánh mất giá trị cốt lõi 'mình là ai', là đừng mảy may suy nghĩ về điều đó".
+
+Con trai của Roberts học tại trường nội trú chuyên dành cho các nam sinh, vì thế sau khi tốt nghiệp, các em sẽ chuyển tới một ngôi trường mới. Nhắc nhở các con về sự thay đổi này, ông đặc biệt khuyên bọn trẻ đừng bao giờ hành động như thể mình ở trên cao hơn người khác, nhất là những người lao động như cào lá, xới tuyết hay lao công. 
+
+"Khi lướt qua những người mà các con không nhận ra là ai. Hãy cứ nhìn vào mắt họ, nở nụ cười và nói 'xin chào', ông nói.
+
+Bài phát biểu của Roberts kết thúc với những tràng pháo tay nồng nhiệt. Lời nhắn nhủ của ông đi thẳng vào thực tế, xuất phát từ tận đáy lòng của một người cha, hy vọng con trai lớn lên trưởng thành hơn và sẵn sàng đối mặt với những trải nghiệm. 
+
+John Roberts nổi tiếng là người có học vấn cao khi tốt nghiệp Khoa luật Đại học Harvard. Gắn liền với hình ảnh quyền lực, nghiêm nghị trên tòa án, nhưng ông lại là một người cha rất ấm áp và sâu sắc.
+Ngay dang: 
+Thứ hai, 8/4/2019, 11:12 (GMT+7)
+Link:  20
+Tieu de: 
+
+TP HCM chi 8.000 tỷ đồng chống ngập năm nay 
+Tom tat: 
+Tình trạng ngập ở trung tâm thành phố và 5 lưu vực ngoại vi rộng 550 km2 được ưu tiên giải quyết.
+Noi dung: 
+
+Trong kế hoạch giảm ngập vừa ban hành, UBND TP HCM cho biết năm nay sẽ đầu tư tổng cộng 218 dự án với tổng kinh phí gần 8.000 tỷ đồng, bao gồm 77 dự án chuyển tiếp (kinh phí gần 5.000 tỷ), khởi công 47 dự án (gần 2.000 tỷ) và chuẩn bị đầu tư 94 dự án (819 tỷ).
+
+Tình trạng ngập nước tại trung tâm và 5 lưu vực ngoại vi (Bắc, Tây, Nam và một phần Đông Bắc, Đông Nam) rộng 550 km2 với khoảng 6,5 triệu dân sẽ được ưu tiên giải quyết dứt điểm. Trước mắt, thành phố tập trung hoàn thành hai dự án cải tạo hệ thống thoát nước trên đường Mai Thị Lựu (quận 1) và nâng cấp đường Huỳnh Tấn Phát (quận 7); hoàn thành dự án chống ngập do triều cường khu vực trung tâm thành phố có xét đến yếu tố biến đổi khí hậu (dự án chống ngập 10.000 tỷ) để giải quyết 4/9 tuyến đường ngập nước do triều.
+
+Cùng với việc đẩy nhanh tiến độ các dự án thu gom và xử lý nước thải, thành phố cũng chốt các thủ tục để thực hiện 4 dự án cải tạo hệ thống thoát nước đường Tân Quý (quận Tân Phú); đường Bàu Cát, Trương Công Định (cùng quận Tân Bình); đường Đặng Thị Rành, Dương Văn Cam (quận Thủ Đức) và đường Lê Đức Thọ (quận Gò Vấp). 
+
+Ngoài ra, thành phố sẽ xây thêm nhiều hồ điều tiết ngầm ở những khu vực có khả năng ngập nặng; đẩy nhanh tiến độ thực hiện các dự án nâng cấp hệ thống giao thông đường bộ. Hơn 200 vị trí lấn chiếm cửa xả, hầm ga, cống thoát nước... sẽ được xử lý dứt điểm.
+
+Chi phí thực hiện việc chống ngập được cân đối từ nguồn vốn ngân sách, theo thứ tự ưu tiên; mời gọi đầu tư bằng hình thức đối tác công tư (PPP); ưu tiên kết hợp các dự án đa mục tiêu...
+
+TS.KTS Ngô Viết Nam Sơn (chuyên gia trong lĩnh vực quy hoạch) cho rằng, thành phố cần nhìn vào thực tế, các công trình chống ngập theo các quy hoạch chỉ giải quyết một số khu vực, nên dù có tiền làm tất cả các dự án đó cũng không thể đảm bảo hết ngập. Việc chống ngập không hoàn toàn phụ thuộc vào các công trình như đê, cống thoát nước hay hồ điều tiết vì có nhiều khu vực cao vẫn ngập do bêtông hóa, nước không còn lối thoát hoặc có thể do quy hoạch, quản lý sai lầm.
+
+"Chống ngập đòi hỏi phải có một chiến lược tổng hợp, đa ngành gồm: quy hoạch, quản lý đô thị, giao thông, xây dựng, trong khi thành phố đang làm lẻ tẻ, cục bộ và vẫn đang ở mức đối phó, thấy ngập chỗ nào thì giải quyết chỗ đó. Làm như lâu nay, ngập chỉ chạy từ chỗ này sang chỗ kia chứ không thể hết", ông Sơn nói.
+Ngay dang: 
+Thứ hai, 8/4/2019, 12:29 (GMT+7)
+Link:  21
+Tieu de: 
+
+HLV Hà Nội: 'Quang Hải đã bắt nhịp trở lại''	
+Tom tat: 
+
+Ông Chu Đình Nghiêm khen ngợi cầu thủ hay nhất trận đấu giữa Hà Nội và SLNA ở V-League 2019.	
+Noi dung: 
+
+Quang Hải đá chính khi Hà Nội tiếp SLNA. Tuyển thủ Việt Nam thi đấu nổi bật với nhiều pha xử lý kỹ thuật như đánh gót, chém bóng từ biên vào, dùng vai chuyền... Phút 40, với một pha thoát xuống phá bẫy việt vị, anh dùng ngực khống chế rồi tung chân trái vuốt bóng làm tung lưới Nguyên Mạnh. Đây là bàn thắng đầu tiên của Quang Hải tại giải vô địch quốc gia Wake-up 247.
+
+Trước khi Quang Hải lập công, Oseni và Omar thay nhau ghi bàn ở phút 13 và 21 để giúp Hà Nội sớm dẫn 2-0. Cầu thủ vào sân thay người ở hiệp hai Hoàng Vũ Samson ấn định chiến thắng 4-0 cho đội bóng thủ đô từ chấm phạt đền phút 86. Chiến thắng này giúp Hà Nội trở lại ngôi đầu với 10 điểm sau bốn trận.
+
+"SLNA không pressing mạnh, không đánh chặn được chúng tôi. Và khi Hà Nội kiểm soát được tuyến giữa, mọi chuyện trở nên dễ dàng. Chúng tôi khoét vào cánh phải của Đình Hoàng và Sỹ Nam nhiều. SLNA phát hiện ra, thay Sỹ Nam ở phút 23 nhưng khi đó tỷ số đã là 2-0, không thể lật ngược. Đội bạn có hàng tiền đạo mạnh, nhưng nay chúng tôi khoá Khắc Ngọc và Văn Bình, không cho họ thực hiện các đường chuyền lên cho Olaha", HLV Chu Đình Nghiêm bật mí về chiến thuật giúp Hà Nội thắng đậm SLNA.
+
+Sau trận thắng SLNA, Hà Nội sẽ hành quân đi làm khách của Khánh Hòa, và tới Myanmar đá với Yangon tại AFC Cup. HLV Chu Đình Nghiêm cho biết sân chơi châu lục rất quan trọng với đội bóng, và ông sẽ dùng những gì tốt nhất cho đấu trường này. Dù mới thua Yangon United trên sân nhà, đội bóng thủ đô vẫn nắm quyền tự quyết trong tay.
+Ngay dang: 
+Thứ hai, 8/4/2019, 08:15 (GMT+7)
+Link:  22
+Tieu de: 
+
+Vợ chồng Lee Byung Hun dự hôn lễ Lee Jung Hyun	
+Tom tat: 
+
+Hai diễn viên cùng nhiều nghệ sĩ nổi tiếng Hàn Quốc chúc mừng hạnh phúc mỹ nhân "Những ngày tươi đẹp".	
+Noi dung: 
+Ngay dang: 
+Thứ hai, 8/4/2019, 09:17 (GMT+7)
+Link:  23
+Tieu de: 
+
+Hà Nội dự kiến chi hơn 14 tỷ đồng mỗi năm hỗ trợ vé tàu Cát Linh - Hà Đông 
+Tom tat: 
+Sinh viên và người lao động các khu công nghiệp sẽ được hỗ trợ 50% giá vé tháng khi đi tàu đường sắt đô thị đầu tiên ở thủ đô.
+Noi dung: 
+
+Sáng mai 9/4, HĐND TP Hà Nội tổ chức kỳ họp bất thường xem xét, thông qua nghị quyết về mức hỗ trợ giá vé tháng đối với người sử dụng vận tải hành khách công cộng trên tuyến đường sắt đô thị Cát Linh - Hà Đông.
+
+Theo tờ trình của UBND TP, mức hỗ trợ cụ thể gồm: 100% giá vé với người có công, người khuyết tật, trẻ em dưới 6 tuổi; 50% giá vé tháng với học sinh, sinh viên, người lao động các khu công nghiệp, người cao tuổi; 30% giá vé tháng cho người lao động tại các văn phòng công sở, doanh nghiệp ngoài khu công nghiệp mua vé theo hình thức tập thể.
+
+Thành phố cũng đề xuất miễn phí 100% giá vé cho toàn bộ hành khách trong 15 ngày đầu khi tuyến đường sắt bắt đầu vận hành thương mại.
+
+Với mức giá vé bình quân toàn tuyến trên 10.000 đồng (cự ly 5,3 km) và ước diện ưu tiên chiếm khoảng 12% tổng số khách, Hà Nội dự kiến mức chi hỗ trợ cho hành khách sử dụng tàu điện Cát Linh - Hà Đông gần 14,5 tỷ đồng mỗi năm.
+
+Trước đó, thành phố tổ chức lấy ý kiến dự thảo phương án giá vé trên tuyến đường sắt đô thị Cát Linh - Hà Đông. Có ba loại giá vé áp dụng theo tháng, ngày và lượt. Cụ thể, nếu đi theo tháng giá vé 200.000 đồng/người; mức 30.000 đồng áp dụng cho vé ngày (không giới hạn số lượt đi lại trên tuyến theo ngày); giá vé lượt được tính theo quãng đường di chuyển của hành khách, trong đó tối đa 15.000 đồng/lượt nếu đi toàn tuyến và thấp nhất khoảng 7.000 đồng với quãng đường ngắn nhất. 
+
+Mức giá trên đã được trợ giá và chỉ áp dụng trong thời gian thí điểm kể từ ngày đưa phương tiện vào khai thác thương mại. Sau khi có định mức kinh tế kỹ thuật chuyên ngành và các quy định về chi phí quản lý, vận hành về đường sắt đô thị, liên ngành sẽ trình thành phố xem xét ban hành giá vé chính thức.
+
+Từ tháng 9/2018, 13 đoàn tàu đã chạy thử, tốc độ trung bình 35 km/giờ. Giữa tháng 2, lãnh đạo Bộ Giao thông Vận tải cho biết, Tổng thầu Trung Quốc đề xuất kết thúc chạy thử dự án vào cuối quý I/2019 và đưa vào vận hành thương mại toàn tuyến từ tháng 4.
+Ngay dang: 
+Thứ hai, 8/4/2019, 14:04 (GMT+7)
+Link:  24
+Tieu de: 
+
+PSG lỡ cơ hội đăng quang sớm tám vòng ở Ligue 1	
+Tom tat: 
+
+Pha hỏng ăn khó tin của Choupo-Moting hôm 7/4 khiến PSG bị Strasbourg cầm hoà 2-2, và không thể đăng quang sớm. 	
+Noi dung: 
+
+PSG bước vào cuộc tiếp đón Strasbourg hôm qua với mục tiêu rất rõ ràng - giành ba điểm để đăng quang sớm. Họ lẽ ra có thể làm được điều đó, nếu không có tình huống "không ghi bàn còn khó hơn đưa bóng vào lưới" của Eric Maxim Choupo-Moting. 
+
+Phút 28, trong pha dàn xếp tấn công ăn ý bên cánh phải của PSG, Dani Alves chọc khe để Christopher Nkunku thoát xuống dứt điểm. Dù thủ môn Strasbourg kịp chạm tay, bóng vẫn đi tới vị trí sát khung thành. Choupo-Moting lao vào tiếp ứng, nhưng thay vì đệm bóng ghi bàn, tiền đạo 30 tuổi này lại chạm nhẹ, khiến trái bóng đi ngang trên vạch vôi rồi dừng lại. Một hậu vệ Strasbourg kịp lùi về phá bóng lên, giải nguy cho cầu môn đội khách.
+
+Ở thời điểm diễn ra pha hỏng ăn, tỷ số đang là 1-1, với các bàn của chính Choupo-Moting cho PSG từ phút thứ 13 và Nuno Da Costa cho Strasbourg ở phút 26. Nếu Choupo-Moting tận dụng được cơ hội ở phút 28 để đưa PSG vượt lên dẫn 2-1, rất có thể trận đấu sẽ trôi theo một kịch bản khác, có lợi hơn cho đội chủ sân Parc des Princes. 
+
+10 phút sau pha hỏng ăn của Choupo-Moting, Strasbourg vượt lên 2-1, với pha bắt vô-lê đẹp mắt từ ngoài khu vực 16m50 của Anthony Goncalves. Trong thời gian còn lại, dù lần lượt tung Mbappe, Draxler rồi Kehrer vào sân và tấn công dồn dập, những gì PSG làm được chỉ là một bàn gỡ hoà 2-2 của Kehrer ở phút 82. 
+
+Chỉ kiếm được một điểm trên sân nhà ở vòng này, PSG mới có 81 điểm qua 30 trận, và không thể đăng quang sớm trận, do khoảng cách với nhì bảng Lille - đội đã đá 31 trận - chỉ là 20 điểm. Tuy nhiên, PSG sẽ lên ngôi nếu kiếm thêm tối thiểu một điểm nữa khi làm khách trên sân Lille vào Chủ nhật tới. 
+Ngay dang: 
+Thứ hai, 8/4/2019, 06:42 (GMT+7)
+Link:  25
+Tieu de: 
+
+Hồ Văn Cường lớn bổng sau ba năm đoạt quán quân Idol Kids 
+Tom tat: 
+
+Từ cậu bé quê nghèo Tiền Giang, ca sĩ giờ là thiếu niên chững chạc, cao gần 1, 6 m và có gu mặc năng động. 
+Noi dung: 
+Ngay dang: 
+Thứ hai, 8/4/2019, 11:17 (GMT+7)
+Link:  26
+Tieu de: 
+
+Korean Air vắng khách sau scandal hạt mắc ca	
+Tom tat: 
+
+Số hành khách sử dụng Korean Air đã giảm trong tháng 12, do hình ảnh hãng đã bị tổn hại đáng kể sau sự cố cựu Phó chủ tịch đuổi tiếp viên trưởng vì túi hạt mắc ca.	
+Noi dung: 
+
+Việc này đã ảnh hưởng nghiêm trọng đến hình ảnh của Korean Air, khi nhiều khách hàng tẩy chay dịch vụ của hãng này. Theo số liệu vừa công bố của Tập đoàn Quản lý Sân bay quốc tế Incheon (IIAC) và Tập đoàn sân bay Hàn Quốc (KAC), Korean Air đã đón 482.000 lượt khách trong nước tháng trước, giảm 6,6% so với cùng kỳ năm ngoái.
+
+Các nhà phân tích cho biết nguyên nhân là khách hàng tẩy chay Korean Air sau sự cố đuổi tiếp viên. "Có vẻ không chỉ một vài hành khách lựa chọn hãng bay khác sau sự kiện này, vì trong nước đang có khá nhiều hãng", một chuyên gia hàng không nhận định.
+
+Thành tích của Korean Air với tuyến bay quốc tế cũng kém hơn các đối thủ. Hãng chuyên chở tổng cộng 1,38 triệu lượt khách đi quốc tế tháng trước, tăng 2,5% so với năm ngoái. Nhưng so với trung bình ngành 9,2%, con số này khá khiêm tốn.
+
+Tuy vậy, Korean Air cho biết các số liệu trên không liên quan đến scandal đuổi tiếp viên, do phần lớn vé đã được đặt nhiều tháng trước. Hãng dự kiến lượng đặt vé cho 2 tháng tới sẽ cao hơn 5% so với năm ngoái.
+Ngay dang: 
+Thứ bảy, 17/1/2015, 14:29 (GMT+7)
+Link:  27
+Tieu de: 
+
+Bàn về câu 'Tôi rất ân hận' mỗi khi tai nạn chết người 
+Tom tat: 
+Đừng nên để xảy ra mất mát về tính mạng con người rồi mới nói lời ân hận.
+Noi dung: 
+
+Vừa rồi có việc một cháu bé bị đàn chó dữ cắn đến mức tử vong, rất thương tâm. Sau đó thì bà chủ đàn chó có nói "tôi rất ân hận". Và hàng năm tại Việt Nam hàng trăm ngàn người bị chó thả rông cắn, hàng trăm người bị chết vì chó.
+
+Và một loạt các biện pháp được đưa ra để loại trừ mối nguy hiểm từ những con chó thả rông như bắt nhốt, đeo rọ mõm... theo kiểu "mất bò mới lo làm chuồng".
+
+Nhưng có nhiều nơi vẫn có nhiều người thậm chí còn không thực hiện các biện pháp này. Tôi có một số cảm nghĩ chủ quan như sau tôi xin chia sẻ.
+
+Điều này xuất phát từ lỗ hổng trong giáo dục tại nhà trường và gia đình (ví dụ: không thuộc luật giao thông đường bộ do quá trình đào tạo lái xe có nhiều bất cập; không biết là con chó có thể có bệnh dại...) và lỗ hổng trong quá trình tự phát triển bản thân (tức là không được dạy, được học nhưng không có ý thực tự học và tự rèn luyện bản thân để trang bị những kỹ năng phòng ngừa rủi ro).
+
+Những tai hoạ như chết vì chó dại cắn, gặp tai nạn do lao từ ngõ ra đường, hoặc đàn chó thả rông gây chấn thương hoặc chết người... hoàn toàn có thể phòng tránh được nếu như mọi người suy nghĩ về sự an toàn của mình và của chính cộng đồng.
+
+Với các cháu bé và các bạn trẻ, rất cần sự giáo dục của gia đình và nhà trường về các rủi ro có thể gặp phải và các biện pháp phòng ngừa/hạn chế. Một cháu bé chạy ra đường bị xe tông phải thì đó là do lỗi của người lớn, trẻ nhỏ hoàn toàn chưa có nhận thức.
+
+Chính là trách nhiệm của người lớn trong việc giáo dục con trẻ. Nếu trong gia đình mà người lớn cũng không biết những rủi ro và biện pháp đề phòng thì nguy cơ xảy ra tai nạn có thể đến bất kỳ lúc nào, cho mình và cho người thân, cộng đồng xung quanh mình.
+
+Có một vài ví dụ như sau: - Khi đi từ trong ngõ ra ngoài đường chính, ta sẽ cần biết rằng luồng xe cộ ngoài đường là một mối nguy hiểm và họ không hề được chuẩn bị để đón tiếp một anh lao từ trong ngõ ra một cách đột ngột.
+
+Do đó, người từ ngõ đi ra phải có trách nhiệm đi từ từ, nghe ngóng, quan sát và tôn trọng luồng giao thông ở đường chính, chỉ nhập vào luồng giao thông khi thật sự an toàn.
+
+Khi anh đi tắm biển: Sẽ phải cân nhắc khả năng bơi lội của mình, tình trạng thể chất, phán đoán tình huống có thể xảy ra, khả năng có luồng chảy xa bờ, có chỗ nông sâu thất thường... Từ đó tự ra quyết định là có xuống tắm biển hay không. 
+
+Khi lái ôtô hoặc xe máy đến nơi giao với đường tàu, phải tư duy ngay là có thể có tàu đang đến, không được chủ quan cho rằng "chắc không có tàu đâu". 
+
+Do đó, cần giảm tốc độ, dừng lại, quan sát, chỉ qua đường tàu khi an toàn. Ở nước ngoài, những nơi giao cắt đường bộ và đường sắt thường có biển báo STOP, và "Proceed at your own risk" tức là phải DỪNG LẠI, và "Đi tiếp có rủi ro dành cho bạn"...
+
+Việc có ý thức phòng ngừa rủi ro và suy nghĩ cho mình và cộng đồng sẽ làm cho cuộc sống của chính bạn, gia đình bạn, và cộng đồng an toàn hơn. Chúng ta cần an toàn trước khi chúng ta muốn gì đó cao hơn như tươi đẹp, hạnh phúc.
+
+Đừng nên để một việc xảy ra có mất mát về tính mạng con người rồi mới ân hận.
+
+Không có cơ hội để làm sống lại một người đã chết do hiểm hoạ, rủi ro.Nhưng có rất nhiều cơ hội để chúng ta phòng ngừa không cho những rủi ro đó xảy ra. 
+Ngay dang: 
+Thứ hai, 8/4/2019, 05:00 (GMT+7)
+Link:  28
+Tieu de: 
+
+Chủ tịch Korean Air ra tòa vì con gái	
+Tom tat: 
+
+Trong phiên điều trần chiều qua (30/1), Chủ tịch Korean Air - Cho Yang-ho cho biết đã mắng con gái sau vụ bà này đuổi tiếp viên trưởng khỏi máy bay tháng trước.	
+Noi dung: 
+
+Cựu Phó chủ tịch Korean Air - Cho Hyun-ah (Heather Cho), con gái lớn của ông Cho Yang-ho đã phải từ chức tháng trước, do áp lực từ công chúng quanh vụ bà ra lệnh cho máy bay quay lại cổng và đuổi tiếp viên trưởng. Chuyến bay từ New York tới Incheon sau đó tới nơi chậm 11 phút so với dự kiến.
+
+Đầu tháng này, bà đã bị truy tố vì đe dọa an toàn bay và câu kết với các lãnh đạo công ty để buộc thành viên phi hành đoàn nói dối về sự việc trên. "Đuổi tiếp viên ra khỏi máy bay là hành động sai trái, bất kể vì lý do gì. Tôi đã mắng con gái vì không kiềm chế được cảm xúc và gây ra việc trên", ông Cho phát biểu trong lần xuất hiện đầu tiên kể từ khi sự việc xảy ra.
+
+Ông đã xin lỗi người tiếp viên trưởng bị đuổi khỏi máy bay và cam kết người này sẽ không bị trách mắng. Phiên tòa lần này còn có sự xuất hiện của Kim Do-hee – người tiếp viên đã phục vụ sai hạt mắc ca trên máy bay. Kim cho biết bà Cho đã lăng mạ thành viên phi hành đoàn về dịch vụ, quát mắng và bắt họ quỳ trên sàn.
+
+Nhưng sau đó, lãnh đạo hãng hàng không đã gây sức ép cô và người tiếp viên trưởng nói dối quan chức Chính phủ về sự cố. Cô cũng bị buộc chấp nhận lời xin lỗi của bà Cho và nhận bồi thường bằng công việc giảng dạy tại một ngôi trường thuộc hãng hàng không.
+
+Trong phiên điều trần trước, cựu sếp nữ Korean Air đã bác bỏ cáo buộc tấn công tiếp viên trưởng. Luật sư của bà Cho cũng nói rằng bà đã rất hối hận về hành động của mình và không đáng bị buộc tội hình sự.
+
+Heather Cho sẽ phải chịu hình phạt tối đa 10 năm tù nếu bị kết tội vi phạm an toàn hàng không. Bà còn có thể ngồi tù thêm 5 năm với cáo buộc ép nhân viên Korean Air khai sai sự thật và can thiệp vào việc thi hành nhiệm vụ.
+Ngay dang: 
+Thứ bảy, 31/1/2015, 02:15 (GMT+7)
+Link:  29
+Tieu de: 
+
+'Avengers: Endgame' và loạt phim chiếu rạp tháng 4 
+Tom tat: 
+
+"Lật mặt: Nhà có khách" và "Thiên linh cái" là hai tác phẩm nội tháng này, còn bom tấn Marvel gây chú ý trong các phim nước ngoài. 
+Noi dung: 
+
+Ngày khởi chiếu: 5/4
+
+Thể loại: Hình sự - Tâm lý
+
+Tác phẩm xoay quanh Cho Il-hyun (Ryu Jun-yeol đóng) - nhân viên môi giới chứng khoán mới vào nghề. Anh khao khát làm giàu nhưng gặp nhiều thất bại, lại không có thế lực ngầm chống lưng. Cho được giới thiệu với một nhân vật có bí danh Lệnh Bài (Yoo Ji-tae). Nhận lời tham gia các giao dịch đen của người này, chàng trai phất lên nhanh chóng nhưng lọt vào tầm ngắm của cảnh sát.
+
+Ngày khởi chiếu: 5/4
+
+Thể loại: Hành động - Hài
+
+Tác phẩm mới của Vũ trụ Điện ảnh DC xoay quanh Billy Batson (Asher Angel đóng) - cậu bé mồ côi được nhận nuôi nhưng không thoải mái với gia đình mới. Billy tình cờ gặp một pháp sư và được ban siêu năng lực kỳ lạ. Khi hô "Shazam!", cậu sẽ biến thành một anh hùng có siêu sức mạnh, tốc độ, phép thuật và vẻ ngoài của người trưởng thành. Lúc này, nhân vật do tài tử Zachary Levi đóng.
+
+Ngày khởi chiếu: 12/4
+
+Thể loại: Hành động - Phiêu lưu
+
+Hellboy xoay quanh nhân vật cùng tên, bắt nguồn từ truyện tranh hãng Dark Horse. Anh tên thật là Anung Un Rama (David Harbour đóng) - người hùng xuất thân địa ngục, hoạt động cho cơ quan đặc vụ Mỹ. Khi đến vùng quê nước Anh đánh người khổng lồ, anh phát hiện nữ hoàng cổ đại Nimue (Milla Jovovich) vừa trỗi dậy. Hellboy phải cố ngăn thực thể này trước khi quá muộn.
+
+Ngày khởi chiếu: 12/4
+
+Thể loại: Hài - Kinh dị
+
+Ngày khởi chiếu: 12/4
+
+Thể loại: Hài - Phiêu lưu
+
+Hoạt hình Pháp kể về Willy - cậu bé 10 tuổi lanh lợi bị chia cắt khỏi cha mẹ khi du hành không gian. Con tàu của cậu đáp xuống hành tinh hoang dã, chưa được thám hiểm. Với sự giúp đỡ của chú chó robot Buck, Willy phải cố cầm cự tới khi nhóm giải cứu đến nơi. Cả hai bắt đầu phiêu lưu vào các khu vực xung quanh.
+
+Ngày khởi chiếu: 12/4
+
+Thể loại: Kinh dị - Ly kỳ
+
+Trong tác phẩm do Michael S. Ojeda đạo diễn và biên kịch, một phụ nữ Nga đến Mỹ cùng con gái. Cô tưởng mình sẽ đổi đời khi kết hôn vị tỷ phú sống kín tiếng. Tuy nhiên, hắn là kẻ có vấn đề thần kinh và khiến cuộc sống của hai mẹ con thống khổ như địa ngục. Phim quy tụ diễn viên Corbin Bernsen, Oksana Orlan và Kristina Pimenova.
+
+Ngày khởi chiếu: 19/4
+
+Thể loại: Hài - Phiêu lưu
+
+Phim Pháp kể tiếp câu chuyện về Aladdin với phong cách hài. Lúc này, chàng chán ngán cuộc sống trong cung điện cùng công chúa, nhớ những cuộc phiêu lưu thuở xưa. Ác nhân Zaman xuất hiện với kế hoạch đánh chiếm kinh đô và cướp công chúa, khiến Aladdin cùng thần đèn bước vào cuộc phiêu lưu mới.
+Ngay dang: 
+Thứ hai, 1/4/2019, 09:00 (GMT+7)
+Link:  30
+Tieu de: 
+
+Lý do các con của Donald Trump thành tài dù 'ngậm thìa vàng mà lớn' 
+
+Tom tat: 
+Tất cả các con của Tổng thống Trump đều không được phép uống rượu, hút thuốc hay bất kỳ chất gây nghiện nào, và tự lập từ sớm. 
+Noi dung: 
+
+Tổng thống Mỹ Donald Trump có 3 vợ, 5 đứa con. Những người con của Trump không sống cùng bố trong thời gian dài vì bố mẹ ly hôn nhưng đều dành cho ông sự kính trọng đặc biệt. Ngoài cậu út Barron còn nhỏ, 4 người con còn lại đều thành đạt, giỏi giang, chưa từng có scandal nào.
+
+3 con của người vợ đầu tiên đều có vị trí cao, được công nhận về tài năng và sự chăm chỉ. Trong đó Ivanka Trump hiện là cố vấn thân cận cho ông trong Nhà trắng, con trai cả Donald Jr. cùng con trai thứ Eric cùng nhau tiếp quản công việc ở The Trump Organization. Cô con gái Tiffany của người vợ thứ hai đang theo học Đại học luật Georgetown ở thủ đô Washington...
+
+"Tôi có những đứa con tuyệt vời và hy vọng chúng mãi như vậy. Từ khi chúng đủ tuổi để lắng nghe, tôi đã luôn nói với chúng rằng không uống gì cả, không hút thuốc và đôi khi cả không uống cà phê, giờ đây thì có thêm không hình xăm. Con gái Ivanka mỗi khi nghe tôi nhắc lại đều nói 'Cha không cần phải nhắc nữa'", Trump chia sẻ. 
+
+Donald Trump chỉ ngủ khoảng 4-5 tiếng mỗi đêm, thức dậy lúc 5h30 sáng và có thể bắt đầu gọi điện làm việc từ 6 giờ. Thời gian trong ngày ông làm việc rất nhiều. Trump từng viết: "Làm việc chăm chỉ là phương pháp cá nhân của tôi để thành công về tài chính". Ông cũng từng chia sẻ trên Twitter rằng mình có thể làm việc nhiều giờ hơn hầu hết các tổng thống trước đây.
+
+Noi gương cha, các con của Trump rất nỗ lực trong cuộc sống. Cô con gái Ivanka chăm chỉ, biết tự lập từ sớm. Bố mẹ chỉ cung cấp tiền học phí, còn lại tất cả các khoản khác, kể cả tiền điện thoại cũng do cô làm thêm, tự chi trả. Sau khi tốt nghiệp trường Wharton danh tiếng, Ivanka vào làm việc như một nhân viên bình thường trong công ty của gia đình để tích lũy kinh nghiệm. Hai anh em trai của cô cũng đều thực tập thời gian dài ở công ty, chứ không được bổ nhiệm vào vị trí cao ngay từ đầu.
+
+Cậu cả nhà Trump, Donald Jr. từng nói: "Cha nói rằng nếu chúng tôi muốn bất cứ thứ gì, chúng tôi luôn phải làm việc để có được nó".
+
+Trump cũng tự nhận mình là một ông bố có trách nhiệm, luôn quan tâm và theo sát các con. "Tôi luôn tự hào về bản thân khi là một ông bố tốt. Với bọn trẻ, tôi luôn ở đó khi chúng cần", Trump nói.
+Ngay dang: 
+Thứ bảy, 2/3/2019, 09:29 (GMT+7)
+Link:  31
+Tieu de: 
+
+Triều Tiên cảnh báo về hậu quả thảm khốc nếu Hàn Quốc triển khai F-35 
+Tom tat: 
+Triều Tiên cho rằng việc Hàn Quốc mua tiêm kích F-35 Mỹ có thể phá hủy những nỗ lực kiến tạo hòa bình trên bán đảo.
+Noi dung: 
+
+"Việc ra mắt tiêm kích tàng hình là hành động thù địch làm leo thang căng thẳng quân sự trên bán đảo Triều Tiên và là một thách thức rõ ràng đối với các nỗ lực kiến tạo hòa bình", trang web tuyên truyền của Triều Tiên Uriminzokkiri ngày 7/4 đăng bài xã luận cho biết.
+
+Tuyên bố được đưa ra chỉ 10 ngày sau khi Hàn Quốc tiếp nhận hai chiến đấu cơ F-35A do Mỹ chế tạo, nhưng ngày triển khai hoạt động chưa được quyết định. Đây là hai chiếc đầu tiên trong lô 40 chiếc F-35A mà Seoul thống nhất mua theo hợp đồng trị giá 6,5 tỷ USD vào năm 2014.
+
+Uriminzokkiri cho rằng Hàn Quốc cần cân nhắc "hậu quả thảm khốc" do quyết định này gây ra.
+
+Hội nghị thượng đỉnh Mỹ - Triều lần hai tại Hà Nội hồi cuối tháng hai kết thúc mà không có thỏa thuận nào giữa hai bên. Tình hình trên bán đảo Triều Tiên gần đây có dấu hiệu phức tạp khi tình báo Hàn Quốc và các chuyên gia Mỹ phát hiện Bình Nhưỡng có dấu hiệu đang khôi phục bãi phóng tên lửa Sohae và có hoạt động tối thiểu tại cơ sở hạt nhân Yongbon.
+
+Tuy nhiên, Tổng thống Mỹ Donald Trump vẫn thể hiện cam kết tiếp tục đàm phán với Bình Nhưỡng bằng cách nhấn mạnh quan hệ gần gũi với lãnh đạo Triều Tiên. Tháng trước, ông ra lệnh rút các lệnh trừng phạt bổ sung lên Bình Nhưỡng vì "quý mến Kim Jong-un".
+Ngay dang: 
+Thứ hai, 8/4/2019, 07:22 (GMT+7)
+Link:  32
+Tieu de: 
+
+Cô gái ghép gan đầu tiên tại Việt Nam sau 15 năm 
+Tom tat: 
+
+Nguyễn Thị Diệp, 25 tuổi, đang làm việc tại khoa Dược Bệnh viện 103 Học viện Quân y, nơi bác sĩ ghép gan cho cô 15 năm trước. 
+Noi dung: 
+
+Diệp chủ yếu làm công việc nhẹ nhàng như bốc thuốc, cân thuốc, phân loại thuốc trong giờ hành chính và được đồng nghiệp ưu tiên không phải trực đêm. Bệnh viện 103 trở thành ngôi nhà thứ hai, giúp Diệp đảm bảo cuộc sống của mình. 
+
+Diệp là bệnh nhân đầu tiên ở Việt Nam được ghép gan, năm 2004. Ngày nay vết mổ ghép gan không còn đau mỗi khi trái gió trở trời. Khó khăn khép lại. Diệp nỗ lực từng ngày để sống tốt hơn. Cô uống thuốc chống thải ghép điều độ, đi ngủ sớm, ăn uống khoa học và đều đặn đi kiểm tra sức khỏe định kỳ mỗi tháng một lần theo chỉ định của bác sĩ.
+
+Gặp Diệp tại Bệnh viện 103 trong chiếc áo blouse trắng chững chạc, không ai nghĩ cô từng phải trải qua tuổi thơ nhiều lần "thập tử nhất sinh". Năm 3 tuổi, Diệp phải phẫu thuật nối đường mật với ruột do mắc bệnh teo mật bẩm sinh. Năm 9 tuổi, bệnh tình chuyển biến xấu, Diệp buộc dừng lại việc học để lên Hà Nội điều trị.
+
+"Hoàn cảnh gia đình bấy giờ còn nhiều khó khăn, tôi cứ ngỡ con mình sẽ không qua khỏi. Hai vợ chồng không có công việc ổn định, phải đi đổ gạch, cày thuê để kiếm tiền trang trải và lo viện phí cho con gái", bà Phạm Thị Thoa, mẹ của Diệp kể lại.
+
+Năm 2004, Diệp may mắn khi được chọn để thực hiện ca ghép gan tại Học viện Quân Y. Người hiến gan cho em là bố ruột, ông Nguyễn Quốc Phòng, nay 43 tuổi.
+
+Là ca ghép gan đầu tiên Việt Nam, gia đình cũng lưỡng lự ít nhiều. Song, ông Phòng kiên quyết dù chỉ có 1% cơ hội cũng không bỏ cuộc. "Mọi khó khăn sẽ qua nếu gia đình chúng tôi đồng lòng", ông tâm sự.
+
+Thời gian chuẩn bị cho ca phẫu thuật cũng là những ngày giáp Tết. Hai bố con phải nằm cách ly tại viện để theo dõi. Khi đó, Diệp lấy những lời động viên của bố để có thêm sức mạnh. "Chỉ cần qua ca phẫu thuật này, con sẽ không còn đau nữa", Diệp tự nhủ.
+
+Sáng 31/1/2004, Diệp và bố được đưa vào phòng phẫu thuật. Trước đó, các bác sĩ nán lại, cầm chắc đôi tay nhỏ bé của em như tiếp thêm sức mạnh cho chiến binh đầu tiên ở Việt Nam thực hiện ca ghép lịch sử này.
+
+Để tiến hành ca phẫu thuật, tập thể y bác sĩ Học viện Quân y 103 phải chuẩn bị trong 5 năm. Nhiều chuyên gia được cử đi nước ngoài học ghép gan, miễn dịch, huyết học... Bệnh viện Chợ Rẫy cử 10 bác sĩ ra theo dõi, học tập kinh nghiệm. Bệnh viện Trung ương Huế và Bệnh viện Nhi trung ương cũng cử người tới quan sát. Giáo sư tiến sĩ Lê Thế Trung chỉ huy kíp mổ ghép.
+
+Sau 15 giờ phẫu thuật, giáo sư Trung rời phòng mổ. Ông rưng rưng khi ca mổ thành công ngoài mong đợi.
+
+"Gan tách ra từ bố ghép vào con vừa khớp với nhau và có màu sắc thật hồng hào khỏe mạnh", giáo sư nói sau ca mổ năm ấy.
+
+Diệp nhớ lại, trước khi ghép cô không lo sợ nhiều bằng lúc tỉnh dậy, bởi khi ấy còn bé nên chỉ cần có gia đình bên cạnh là an tâm. Từ sau ca mổ, cô nhận ra sức khỏe là điều vô giá. Cô luôn nhắc nhở bản thân phải giữ gìn và bảo vệ lá gan bố dành tặng. Sức khỏe tốt lên cũng giúp cô gái rụt rè ngày trước nhanh chóng hòa nhập. Cô mở lòng đón nhận những tình cảm của mọi người dành cho mình.
+
+15 năm sau khi hiến gan, sức khỏe ông Phòng vẫn ổn định. Ông hạn chế những việc nặng nhọc và đi khám định kỳ mỗi tháng một lần. Một năm sau ca ghép, gia đình còn đón thêm tin vui khi vợ mang thai một bé trai khỏe mạnh. "Nhìn các con, tôi có thêm điểm tựa để cố gắng mỗi ngày", ông Phòng nói.
+
+"Giờ là lúc chúng tôi cùng nhau đón nhận hạnh phúc", mẹ Diệp tiếp lời.
+
+"Nếu ngày đấy không mạnh mẽ thì đã không có Diệp của ngày hôm nay. Ca ghép gan chính là món quà mà cuộc sống bù đắp cho mình", Diệp nói.
+
+Diệp nói rằng bây giờ cô không chỉ sống cho riêng mình mà phải sống có ích để không phụ sự dũng cảm của bố mẹ, sự đồng lòng của các y bác sĩ và những người đã yêu thương giúp đỡ cô.
+Ngay dang: 
+Thứ hai, 8/4/2019, 05:02 (GMT+7)
+Link:  33
+Tieu de: 
+
+Ong bắp cày khổng lồ có thể giết người bằng một vết đốt 
+Tom tat: 
+Ong bắp cày khổng lồ châu Á dài khoảng 5 cm, sở hữu độc tố thần kinh có thể khiến người bị đốt chết vì sốc phản vệ.
+Noi dung: 
+Ngay dang: 
+Thứ hai, 8/4/2019, 14:15 (GMT+7)
+Link:  34
+Tieu de: 
+
+Đối thủ của Từ Hiểu Đông được gọi là 'Ibrahimovic trong võ thuật'	
+Tom tat: 
+
+Trang Sohu đánh giá cao kỹ thuật chiến đấu của Hàn Phi Long và cho rằng đây là món quà cho nền võ thuật Trung Quốc.	
+Noi dung: 
+
+Hàn Phi Long từng theo học Thái cực từ Vương Chiến Quân, con trai của Vương Tây An - người từng nhận dạy võ cho tỷ phú Jack Ma. Khả năng chiến đấu của Hàn được hoàn thiện sau đó, khi anh theo học Tán thủ. Được sư phụ động viên, Hàn quyết định dấn thân vào con đường võ thuật chuyên nghiệp.
+
+Hàn Phi Long hiện là ngôi sao hút khán giả hàng đầu của sự kiện EM Legend, một đấu trường gần giống với UFC, được tổ chức tại Trung Quốc. Anh gây tiếng vang lớn khi hạ knock-out Gonzalez hồi đầu năm 2017 bằng pha tung người rồi quét chân vào đầu đối phương.
+
+Kỹ thuật chiến đấu mạnh mẽ của Hàn Phi Long khiến một bộ phận cho rằng anh không thể đại diện cho cách đánh mềm mại, uyển chuyển của Thái cực quyền. Tuy nhiên, Chủ tịch Liên đoàn quyền Anh Trung Quốc, Trương Truyền Lương phản bác. Ông phân tích: "Những người nói vậy, thực tế, không biết Thái cực là gì. Họ thường nghĩ tới những cao nhân tóc bạc trong phim kiếm hiệp khi nhắc tới môn võ này, mà quên rằng Thái cực quyền rất chú trọng tính chiến đấu. Nó cũng như mọi môn võ khác trên thế giới. Một cú đấm vẫn là giơ nắm quyền ra phía trước, rồi phát lực. Có thể kỹ thuật và triết lý của từng môn phái sẽ khác nhau, nhưng về cơ bản, vẫn là đánh vào chỗ sơ hở hoặc chỗ yếu của đối thủ".
+
+Hàn Phi Long có hẹn ước tỷ thí võ nghệ với Từ Hiểu Đông trong năm 2019. Truyền thông Trung Quốc đồn đoán, trận đấu này sẽ diễn ra vào tháng Sáu hoặc tháng Bảy.
+Ngay dang: 
+Thứ hai, 8/4/2019, 14:18 (GMT+7)
+Link:  35
+Tieu de: 
+
+Hình phạt với người cưỡng dâm tập thể dưới thời nhà Nguyễn 
+Tom tat: 
+Nếu làm nạn nhân tử vong, kẻ hiếp dâm bị chém ngay; đồng phạm bị phạt thắt cổ.
+Noi dung: 
+
+Lệ 6 điều 332 Luật Gia Long cho phép xử trảm ngay những kẻ dùng bạo lực để hiếp dâm rồi giết nạn nhân.
+
+Một bản án khác, vào năm Minh Mạng thứ 11, Đoàn Đức Hoằng (xã Tử Nê, Tiên Du, tỉnh Bắc Ninh) cưỡng dâm không được bèn đánh vào mặt khiến nạn nhân bị trọng thương mà chết. Sự việc bị phát giác, Hoằng bỏ trốn, sau đó đã ra đầu thú, khai cưỡng dâm đến nỗi chết người nhưng không nói rõ lý do.
+
+Chiếu theo mức phạt của hành vi cưỡng dâm, Hoằng phải bị chém ngay nhưng do hối hận đã ra đầu thú nên được trảm giam chờ xét.
+Ngay dang: 
+Thứ hai, 8/4/2019, 00:00 (GMT+7)
+Link:  36
+Tieu de: 
+
+Quang Hải chuyền bóng bằng lưng như Ronaldo và Ronaldinho	
+Tom tat: 
+
+Tiền vệ của CLB Hà Nội thể hiện nhãn quan xuất sắc trong trận thắng SLNA 4-0 ở vòng 4 V-League 2019.	
+Noi dung: 
+Ngay dang: 
+Thứ hai, 8/4/2019, 10:57 (GMT+7)
+Link:  37
+Tieu de: 
+
+Ca ghép gan đầu tiên kết thúc khả quan 
+Tom tat: 
+
+22h15' đêm 31/1, giáo sư Lê Thế Trung rời phòng mổ, xúc động thông báo ca ghép gan đạt kết quả ngoài mong đợi. Nội tạng mới đã hồng hào trở lại ngay khi những mạch máu cuối cùng được nối. Cơ thể bé Diệp đã vượt qua mốc nguy hiểm đầu tiên, là tín hiệu khả quan về một ca ghép thành công sau hơn 15 tiếng. 
+Noi dung: 
+Khi kíp mổ hoàn tất đóng thành bụng cho cháu Diệp, các công việc cuối cùng, bước ra khỏi phòng phẫu thuật - thời gian đã là 2 giờ sáng ngày 1/2.
+"Các giáo sư Nhật Bản đầy kinh nghiệm và những đồng sự Việt Nam thật tuyệt vời. Với phương châm chậm mà chắc, chúng tôi đã hoàn thành ca mổ ngoài cả sự mong đợi" - vị giáo sư 78 tuổi rưng rưng nói. Ông cho biết, chỉ riêng việc tách gan của anh Phòng đã kéo dài 8 tiếng và lấy bỏ gan bệnh cho cháu Diệp là 7 tiếng rưỡi. Điều tuyệt vời là lượng máu phải truyền cho cháu Diệp chỉ khoảng 1 lít, bằng một nửa so với mức tối thiểu dự kiến, trong khi số máu dự trữ cho ca mổ là 23 lít. Còn người bố không cần truyền thêm chút máu nào và hiện sức khoẻ của anh khá ổn định. "Gan tách ra từ bố ghép vào con vừa khớp với nhau và có màu sắc thật hồng hào khoẻ mạnh" - giáo sư Trung nói. 
+Các công đoạn đóng bụng cuối cùng còn được thực hiện trong vòng 1 tiếng nữa. Sau đó, trong đêm nay, các bác sĩ trong kíp hồi sức sẽ tiếp tục thức trắng để theo dõi thể trạng của cháu bé. Trong vài tiếng đầu, cứ 15 phút một lần họ sẽ kiểm tra mạch, huyết áp, nhịp tim, xét nghiệm máu và rút dịch dạ dày. 
+Cháu bé sẽ được theo dõi sát sao khả năng thích ứng với gan mới trong vòng 3 tháng. Đến thời điểm này, theo giáo sư Trung, cháu Diệp đã vượt qua nguy cơ thải ghép tối cấp (trạng thái từ chối tạng lạ ngay sau khi ghép). Nếu chịu được một tháng nữa là cháu đã vượt qua ngưỡng thải ghép cấp. Sau 3 tháng, có thể yên tâm về sự thích nghi của gan lạ trong cơ thể cháu. Bố cháu có thể xuất viện sau một tháng điều trị phục hồi. 
+Như vậy là sau đúng 12 năm kể từ khi Việt Nam thực hiện thành công ca ghép thận đầu tiên, đến hôm nay, lần đầu tiên một ca ghép gan đã được thực hiện thành công tại nước ta. Các chuyên gia cho biết, ghép gan khó hơn ghép thận rất nhiều. Ghép gan phải cắt bỏ gan hỏng, thay thế bằng gan khoẻ của người hiến trong khi ghép thận thì không cần cắt bỏ hai quả thận hư. 
+Gia đình của bé Diệp tại Nam Định tất cả đều nở nụ cười hạnh phúc khi ông nội gọi điện từ Hà Nội về báo tin vui. Chị Thoa - mẹ của Diệp nghẹn ngào cho biết, ước mơ lớn nhất của em là sớm khỏi bệnh và lớn lên trở thành một cô giáo dạy giỏi. "Cảm ơn các giáo sư, bác sĩ đã giúp cho những ước mơ của con tôi sớm thành hiện thực. Cháu bị bệnh nhưng vẫn học rất tốt, năm nào cũng được bằng khen".
+Ngay trong hôm nay, bệnh viện Chợ Rẫy TP HCM đã đề nghị các chuyên gia Nhật Bản ghép gan cho 2 bệnh nhân, và bác sĩ Makuuchi đã đồng ý mổ cho một người. 
+Diễn biến ca mổ
+Hôm trước, bố con cháu Diệp đã ngừng ăn thức ăn thô, được thụt tháo đường tiêu hóa và truyền dịch dinh dưỡng. Riêng cháu Diệp, trước, trong và sau ca mổ được dùng thuốc ức chế miễn dịch để chống đào thải nội tạng. Vì bản thân cháu đã suy yếu nhiều do bị bệnh lâu ngày, cộng với việc dùng thuốc ức chế miễn dịch cũng khiến cho cơ thể cháu không có khả năng chống lại các viêm nhiễm thông thường, do đó, khu mổ phải được đảm bảo vô trùng tuyệt đối.
+Giáo sư Phạm Tử Dương, chuyên gia tim mạch tại Viện 108, cho biết, quá trình gây mê sẽ kéo dài suốt ca mổ, nhưng không ảnh hưởng gì đến hệ hô hấp và sức khoẻ của cháu bé. Khi ca mổ kết thúc, cháu có thể tỉnh táo lại ngay và mọi chức năng đều không bị ảnh hưởng. 
+Bác sĩ chuyên khoa 2 Dương Thịnh, nguyên Chủ nhiệm Bộ môn Phẫu thuật Thực hành Học viện quân y, cho biết, ca mổ được chuẩn bị và mong đợi từ rất lâu này là nơi hội tụ những tiến bộ y học và có ý nghĩa to lớn trong việc chuyển giao công nghệ.
+Trong lúc này, tại quê nhà, huyện Hải Hậu, Nam Định, người mẹ 28 tuổi của cháu Diệp, chị Phạm Thị Thoa, rất hồi hộp. Chị cho biết thông tin mới nhất gia đình nhận được là từ bố chồng, ông Nguyễn Quốc Được. Lúc 7h, ông gọi điện về báo cả hai bố con cháu Diệp đã được lên ôtô đưa vào khu vực cách ly đặc biệt của Bệnh viện Bỏng trung ương. Chị Thoa nói: "Ông cháu lên Hà Nội từ 13h chiều qua để theo dõi ca mổ của con và cháu qua màn hình. Tôi cũng muốn lên xem sao nhưng bác sĩ khuyên về nhà. Hôm mùng 6 Tết, tôi đã lên và được trò chuyện với hai bố con hai ngày. Sau đó bác sĩ Hải bảo cứ yên tâm mà về".
+
+
+Lúc này, mỗi phòng mổ có 12-14 bác sĩ. Trong đó có 2-3 bác sĩ mổ chính, còn lại là phụ mổ và quan sát. Các bác sĩ chỉ trao đổi bằng tay và những câu ngắn bằng tiếng Nhật.
+Việc tách không phức tạp bằng quá trình ghép, bởi khi tách, các bác sĩ chỉ cần khóa kín mạch máu, tách gan ra và bảo vệ mô gan của cả phần được tách và phần giữ lại. Công đoạn ghép phức tạp hơn bởi phải nối tĩnh mạch, động mạch và đường mật từ phần gan hiến vào cơ thể cháu bé. Tuy nhiên khi cắt bỏ lá gan của cháu Diệp, các bác sĩ cũng hết sức cẩn thận đề phòng đụng chạm vào hệ thống tĩnh mạch chủ dưới và tĩnh mạch trên gan. Tĩnh mạch mềm, yếu, to và dẹt hơn động mạch nên rất dễ bị rách.
+Ở phòng bên, sau vết mổ dài 25 cm, các bác sĩ đã mở được khoang bụng cháu Diệp. Công việc cắt bỏ toàn bộ gan bệnh đang được chuẩn bị nhịp nhàng với việc tách gan ở người bố.
+Ở nhà lúc này, chị Thoa mẹ cháu Diệp lo lắng phát khóc. Chị kể với phóng viên VnExpress, hồi cháu mới được 3 tháng tuổi thì các bác sĩ phát hiện cháu bị tắc ống mật bẩm sinh. Bệnh viện huyện Hải Hậu sau khi chẩn đoán đã chuyển thẳng cháu lên Bệnh viện Nhi trung ương. Tại đây, cháu được phẫu thuật nối mật. Từ đó đến 9 tuổi, bé Diệp rất hay ốm vặt. Hồi tháng 9 năm ngoái, cháu bị sốt. Có bác sĩ gần nhà mua thuốc cho uống thì cháu nôn ra ngay, đầy máu. Lúc đó Diệp cũng đi ngoài ra máu đen. Chị Thoa nói: "Cả nhà tưởng cháu chết đến nơi. Đưa ra bệnh viện huyện thì các bác sĩ bảo chuyển ra Hà Nội. Vậy là gia đình vội đưa cháu lên Bệnh viện Nhi một lần nữa".
+Sau một tháng điều trị ở Bệnh viện Nhi, các bác sĩ quyết định đưa cháu vào danh sách dự kiến ghép gan ở Học viện Quân y. Chị Thoa cho biết, các bác sĩ mặc áo lính rất tận tình chăm sóc hai bố con. Anh Phòng chồng chị được các giáo sư giải thích rất cặn kẽ về khả năng cho, nhận gan. "Ban đầu anh ấy sợ lắm, nhưng giờ đã tự tin rồi. Mất một phần gan, ảnh hưởng đến sức khỏe mà cứu được con thì vẫn phải làm" - chị Thoa tâm sự.
+Gia đình cháu Diệp đang rất hồi hộp. Từ 7h sáng, ông bà ngoại cùng bà nội, các chú, các dì của cháu đã tụ tập ở nhà chị Thoa chờ tin. Bác Phạm Văn Tự, 48 tuổi, đã làm ông ngoại từ 10 năm nay. Bác cho biết Diệp là con đầu cháu sớm của cả hai bên nội ngoại. Cháu sinh ra đau yếu luôn, ông bà nội ngoại phải chăm bẵm rất nhiều. Bà Tự không nhớ nổi đã bao nhiêu lần phải đưa cháu ngoại đi bệnh viện. Gia đình hai bên đều làm nông nghiệp, không dư dả gì nên mỗi lần cháu ốm chỉ biết giúp công và cho anh chị Phòng ít tiền.
+13h50',
+Ông nội cháu Diệp cùng hai cậu của cháu đã có mặt trong phòng truyền hình chuyên môn (gần phòng mổ nhất) từ sáng sớm. Ông nghẹn ngào kể: "Cả gia đình tôi ăn Tết trong tâm trạng vô cùng lo lắng và thương hai bố con phải thui thủi trong viện. Cả nhà luôn thắp hương, cầu khấn tổ tiên phù hộ cho cháu. Chúng tôi rất thương nó vì còn bé quá nhưng cháu rất can đảm. 
+Cháu Diệp gọi điện cho tôi nói rằng ông gửi cho cháu mấy cuốn truyện để đọc, chứ trong viện buồn lắm. Tại đây, hai bố con cháu được chăm sóc kỹ càng nên chúng tôi cũng chẳng có vai trò gì, nhưng muốn được gần con cháu nên tôi vẫn túc trực".
+
+
+Đường ống mật vốn có chức năng cung cấp dịch mật, hỗ trợ quá trình tiêu hóa. Tuy nhiên, ống mật của cháu Diệp bị teo, không thực hiện được chức năng này. Khi phẫu thuật, các bác sĩ đã cắt toàn bộ gan hỏng của cháu đến tận sát cuống mật, thông sạch cuống và nối phần gan có chứa ống mật của bố cháu vào. Theo đánh giá của các bác sĩ, gan của anh Phòng có chức năng tiết dịch mật rất tốt.
+Ở phòng bên, các bác sĩ tiến hành đóng ổ bụng của người bố
+Không khí trong phòng mổ rất yên lặng. Tại hội trường A, ông nội cháu Diệp không ngừng đi lại vì quá lo lắng. Các chuyên gia dự báo ca mổ có thể kéo dài đến 22h đêm nay. 
+Sau ca mổ, một trong các chuyên gia Nhật Bản sẽ ở lại Việt Nam khoảng 1 tuần để theo dõi diễn biến bệnh nhân, liên lạc về nước trong những tình huống cần thiết. Nếu sau 1-2 tuần, bệnh nhân không biến chứng, gan không bị đào thải thì ca mổ có thể được xem là thành công.
+Để có ca mổ này, tập thể y bác sĩ Học viện Quân y đã phải chuẩn bị trong 5 năm trời. Nhiều chuyên gia đã được cử đi nước ngoài học ghép gan, miễn dịch, huyết học... Về nước, đều đặn sáng thứ tư hàng tuần, họ lại tập ghép gan trên động vật. Đến nay, Học viện đã sẵn sàng cho việc tiếp nhận công nghệ ghép gan tiên tiến trên người.
+Ghép gan là một trong những loại phẫu thuật phức tạp nhất. Trên thế giới mới có khoảng 4.000 người được thực hiện kỹ thuật này, trong đó có 2.000 người ở Nhật. Một phần cũng là do Nhật Bản đã có luật hiến tạng, tạo điều kiện thuận lợi cho các bác sĩ lấy nội tạng của những người tử vong. Đến nay, Viện Đại học Tokyo đã thực hiện được gần 300 ca ghép gan, với tỷ lệ thành công trung bình trên 90%. Tỷ lệ người sống trên 1 năm sau phẫu thuật là 95-96%. Trung bình mỗi tuần Viện thực hiện ghép một lần. 
+Trong ca mổ đầu tiên ở Việt Nam này, 5 chuyên gia của Viện Đại học Tokyo, Nhật Bản sẽ trực tiếp cầm dao. Phụ trách mổ chính là giáo sư Masatoshi Makuuchi, sẽ tham gia tất cả những khâu quan trọng nhất, trong đó có công đoạn lấy - ghép gan. Giáo sư Masatoshi Makuuchi là chủ nhiệm bộ môn ghép gan và các tạng nhân tạo của Viện đại học Tokyo, đã tham gia gần 300 ca ghép gan.
+ 
+ 
+ 
+Ngay dang: 
+Thứ bảy, 31/1/2004, 08:07 (GMT+7)
+Link:  38
+Tieu de: 
+
+'Cần kỷ luật những giáo viên che giấu vụ nữ sinh đánh bạn' 
+Tom tat: 
+Bạo lực học đường xảy ra là điều chẳng ai muốn, nhưng thái độ thờ ơ với nó mới đáng lên án.
+Noi dung: 
+
+Tôi thấy quan điểm riêng của tác giả bài viết là không có gì sai. Bạo lực học đường xuất phát từ nhiều nguyên nhân: gia đình, xã hội, mạng internet, môi trường sống, nhận thức của từng em học sinh...
+
+Đây là vấn đề mà cả xã hội cần phải chung tay để góp phần loại bỏ nó ra khỏi môi trường sống của con người, đặc biệt là trong nhà trường.
+
+Nhưng xét riêng trong vụ ở Hưng Yên, thì cả giáo viên chủ nhiệm, Ban giám hiệu nhà trường đều phải chịu trách nhiệm vì đã làm sai nguyên tắc đạo đức nghề nghiệp, che giấu sự việc dẫn đến tình trạng nghiêm trọng hơn, xem nhẹ tính chất vụ việc.
+
+Rõ ràng, trong sự việc này, các thầy cô đã quá bàng quan với hoàn cảnh của em Y, không hề có biện pháp mạnh tay nào để xử lý vụ việc. Đến khi sự việc xảy ra nhiều lần và mức độ càng ngày càng nghiêm trọng thì lại lấp liếm để xoa dịu sự việc.
+
+Như vậy, rõ ràng trách nhiệm thuộc về thầy cô, ban giám hiệu trường là phần lớn. Chỉ có điều, cơ quan cấp có thẩm quyền cần xem xét đúng người đúng mức độ vi phạm với từng cá nhân và tập thể để đưa ra những mức phạt thích đáng.
+
+Trong vụ bạo lực học đường ở Hưng Yên, dư luận không hề đổ trách nhiệm cho thầy cô giáo và nhà trường để xảy ra vụ việc. Trách nhiệm chính xác của thầy cô giáo trong vụ bạo lực học đường này là đã cố tình giấu giếm, ém nhẹm vụ việc trong khi tính chất của nó rất nghiêm trọng. 
+
+Tại sao một vụ bạo lực học đường nghiêm trọng (và có tính lặp lại) như vậy mà không thông tin đầy đủ cho gia đình em nạn nhân biết rõ. Tôi nhớ là gia đình em học sinh này phải lên trường yêu cầu làm căng nhà trường mới cung cấp thông tin vụ việc chứ nhà trường không hề chủ động liên lạc với gia đình nạn nhân, trách nhiệm của nhà trường ở đâu thưa tác giả? 
+
+Nhà trường còn cố tình ém nhẹm vụ việc với cấp trên, không hề báo cáo một vụ việc nghiêm trọng này để cấp trên xử lý, cũng vì căn bệnh thành tích. Dư luận chỉ trích thầy cô giáo là vì những lý do đó chứ không ai chỉ trích nhà trường để xảy ra bạo lực học đường. 
+
+Vì như bạn nói, bạo lực học đường tồn tại mãi mãi với trường học, chúng ta, các cấp các ngành không có biện pháp triệt tiêu nó thì làm sao chúng ta có thể đẩy hết cho thầy cô giáo. Chúng tôi chỉ đang chỉ trích cách xử lý rất vô trách nhiệm của những người làm thầy cô giáo sau khi vụ việc nghiêm trọng xảy ra.
+
+Không ai đổ lỗi hết hoàn toàn cho giáo viên khi có bạo lực học đường. Không ai cả. Nhưng nói họ là "dê tế thần" hay hoàn toàn vô can và không đáng phải bị kỷ luật gì thì thật sự là đã sai càng sai.
+
+Lỗi của họ ai cũng thấy, không có tâm, không hết lòng hết sức khắc phục những chuyện không may bằng cách báo cho gia đình học sinh nạn nhân biết toàn bộ sự thật. Họ bao biện, lấp liếm, vòng vo, chỉ muốn ém nhẹm mọi chuyện để giữ vững cái ghế của mình, có ý đổ lỗi cho nạn nhân, không một lời xin lỗi tử tế. Vậy mà không sai sao? Vậy mà xứng đáng làm "thầy cô" sao?
+
+Nếu sự việc đó không ai biết, không rùm beng lên và nạn nhân không có ai bênh vực, nghĩ không thấu đáo và tự tử thì sao? Họ vẫn vô can và đáng thương nhỉ? Đã là lỗi hệ thống thì hễ ai, cái gì nằm trong hệ thống thì cũng đều có lỗi, đều phải chịu trách nhiệm.
+Ngay dang: 
+Chủ nhật, 7/4/2019, 19:22 (GMT+7)
+Link:  39
+Tieu de: 
+
+Trang phục truyền thống trong lễ đăng quang của Nhật hoàng 
+Tom tat: 
+Mỗi bộ trang phục được sử dụng trong lễ đăng quang của Nhật hoàng đều có những biểu tượng mang ý nghĩa riêng.
+Noi dung: 
+Ngay dang: 
+Thứ hai, 8/4/2019, 09:24 (GMT+7)
+Link:  40
+Tieu de: 
+
+Dân công sở ngủ gật trên đường bộc lộ văn hóa làm việc kiệt sức ở Nhật 
+
+Tom tat: 
+Những người đàn ông trong trang phục comple, thắt cà vạt nằm ngủ say sưa ở những nơi công cộng sau một ngày làm việc quá sức.
+Noi dung: 
+
+Nhật Bản nổi tiếng với văn hóa làm việc chăm chỉ, trong đó nhân viên dành nhiều thời gian cho công việc. Nhiếp ảnh gia người Ba Lan Pawel Jaszczuk đang làm việc ở cả Warsaw và Nhật Bản nói rằng, khi sống ở Tokyo, anh bắt đầu nhận thấy một hiện tượng độc đáo. Vào nửa đêm, anh bắt gặp những người đàn ông mặc đồ công sở đang ngủ say trên đường phố Tokyo.
+
+Trong những bức ảnh của Jaszczuk, có người nằm trên ghế, có người gục trên hàng rào, có người tựa vào cột ở ga tàu điện ngầm chợp mắt... Nhiều người thậm chí ngủ trong tư thế đứng.
+
+Sau một số nghiên cứu, Jaszczuk biết nơi nào sẽ có đông nhân viên công sở ngủ, đó thường là những trạm xe lửa, hay những nơi công cộng gần quán karaoke. Đặc biệt, hai quận Shinjuku và Shimbashi của Tokyo, vốn có nhiều trung tâm thương mại và giải trí, là nơi có nhiều nhân viên công sở ngủ gật nhất. Thỉnh thoảng, Jaszczuk cũng tìm thấy người ngủ gật ở một vài địa điểm khác.
+
+Vì chụp ảnh vào ban đêm, Jaszczuk phải sử dụng đèn flash. Những nhân vật trong các bức ảnh chưa bao giờ thức dậy sau mỗi lần đèn flash của anh lóe sáng. "Tôi cố gắng chụp nhanh, dù có nhiều thời gian, vì tôi không muốn làm phiền họ. Người qua đường và cảnh sát cũng để mặc họ ngủ", Jaszczuk nói.
+
+Sau một ngày dài làm việc, một số người làm công ăn lương ở Nhật Bản có thể đi uống và giao lưu với các đồng nghiệp để xả hơi. Đôi khi, có người đi uống vì cảm thấy có nghĩa vụ phải "hầu rượu" đối tác và ông chủ sau giờ làm việc. Sau quá nhiều lần cụng ly, họ đã lỡ chuyến tàu cuối cùng về nhà, và đành ngủ gục trên đường phố. Sáng hôm sau, họ lại đứng dậy và trở lại văn phòng để bắt đầu ngày làm việc mới.
+
+"Những người đàn ông này là nạn nhân của cuộc sống hiện đại ở Nhật Bản", Jaszczuk nói với Business Insider. Họ bị "tàn phá nặng nề bởi hậu quả của việc làm việc nhiều giờ. Đừng vội vàng phán xét họ".
+
+Văn hóa làm việc quá sức ở Nhật mạnh mẽ đến mức nhiều người làm công ăn lương đã chết vì kiệt sức. Hiện tượng này được gọi là karoshi. Một báo cáo năm 2016 tiết lộ rằng hơn 20% số người trong cuộc khảo sát với 10.000 công nhân Nhật Bản cho biết họ làm thêm ít nhất 80 giờ/tháng.
+
+Từ những năm 1950, quyết tâm xây dựng lại nền kinh tế Nhật Bản sau thế chiến II, thủ tướng Shigeru Yoshida khi đó đã khuyến khích người lao động dành nhiều thời gian hơn cho công việc. Kế hoạch rõ ràng có hiệu quả, vì nền kinh tế Nhật Bản đã vươn lên thứ ba thế giới. Nhưng một tác dụng phụ ngoài ý muốn đã xuất hiện: sự căng thẳng, mệt mỏi khiến bệnh đột quỵ và suy tim trở nên phổ biến hơn đối với nhân viên Nhật Bản.
+
+Nhiều thập kỷ sau, những cái chết liên quan đến làm việc kiệt sức vẫn đang diễn ra. Gần đây nhất, một nhà báo 31 tuổi tên Miwa Sado đã chết vì suy tim vào tháng 7/2013 sau khi làm thêm 159 giờ trong khoảng một tháng. Khi có một nhân viên chết do làm việc quá sức, các công ty Nhật sẽ phải nộp phạt. Sếp của Sado phải nộp phạt 5.000 đôla (khoảng 115 triệu đồng) sau khi cô qua đời.
+
+Chính phủ Nhật Bản đã thực hiện một số biện pháp để cân bằng cuộc sống - công việc bên cạnh việc phạt tiền các tập đoàn có nhân viên chết vì làm việc quá sức. Một trong những biện pháp đó là cho phép người lao động được tan sở từ 3h chiều mỗi thứ sáu cuối cùng của tháng. Tuy nhiên, biện pháp này không hiệu quả, làm thêm giờ vẫn là một khía cạnh phổ biến của văn hóa doanh nghiệp tại Nhật Bản.
+
+Xuất bản cuốn sách ảnh, Jaszczuk mong muốn cảnh tỉnh văn hóa làm việc kiệt sức. Anh cho rằng, việc những người lao động Nhật Bản đã quá căng thẳng như thế nào cần phải được quan tâm chú ý hơn.
+Ngay dang: 
+Thứ hai, 8/4/2019, 06:00 (GMT+7)
+Link:  41
+Tieu de: 
+
+Thi thể bé trai nhiều vết đâm bị vùi dưới đất 
+Tom tat: 
+Nạn nhân tử vong trước lúc phát hiện khoảng 48 giờ, lưng bị đâm nhiều nhát bằng vật sắc nhọn.
+Noi dung: 
+
+Công an thành phố Điện Biên Phủ đang phối hợp cùng Công an tỉnh Điện Biên điều tra vụ bé trai sơ sinh có dấu hiệu bị sát hại rồi chôn tại một nhà xưởng ở xã Tàng Lèng.
+
+Chủ tịch UBND xã Tà Lèng Lò Văn Biên cho biết, sau trận mưa to sáng 4/4, nhân viên làm việc tại xưởng phát hiện thi thể đứa trẻ nên báo nhà chức trách. Bé trai nặng 3 kg, được xác định chào đời khoảng một đến ba ngày trước.
+
+"Lưng bé trai bị đâm nhiều nhát bằng vật sắc nhọn, nghi là dao. Nạn nhân tử vong trước lúc phát hiện khoảng 48 giờ", ông Biên nói và cho hay công an nghi vấn bé bị sát hại ở nơi khác rồi mang chôn ở xã Tà Lèng.
+
+Cảnh sát đã rà soát nhiều phụ nữ mới sinh con trên địa bàn xã Tà Lèng song không phát hiện nghi vấn.
+Ngay dang: 
+Thứ hai, 8/4/2019, 12:58 (GMT+7)
+Link:  42
+Tieu de: 
+
+Trẻ em ở Hà Nội bị xâm hại nhiều nhất nước trong năm 2018 
+Tom tat: 
+Hơn 1.500 vụ xâm hại thân thể trẻ em đã xảy ra trên toàn quốc, trong đó có hơn 900 vụ giao cấu và hiếp dâm.
+Noi dung: 
+Ngay dang: 
+Thứ hai, 8/4/2019, 14:21 (GMT+7)
+Link:  43
+Tieu de: 
+
+Lý do Triều Tiên lo ngại 'hậu quả thảm khốc' khi Hàn Quốc sở hữu F-35 
+Tom tat: 
+Tiêm kích tàng hình F-35 có thể đe dọa toàn bộ chiến đấu cơ Triều Tiên cũng như tên lửa đạn đạo xuyên lục địa khi vừa rời bệ phóng.
+Noi dung: 
+
+Website tuyên truyền Uriminzokkiri của nhà nước Triều Tiên hôm qua bất ngờ gay gắt chỉ trích việc Hàn Quốc tiếp nhận hai chiếc đầu tiên trong lô 40 tiêm kích tàng hình F-35A theo hợp đồng trị giá 6,5 tỷ USD ký với Mỹ vào năm 2014. Bình Nhưỡng cho rằng đây là "hành động thù địch làm leo thang căng thẳng quân sự trên bán đảo", "một thách thức rõ ràng đối với các nỗ lực kiến tạo hòa bình" có thể gây ra "hậu quả thảm khốc".
+
+Theo giới quan sát, đây là phản ứng mang hàm ý đe dọa đầu tiên của Triều Tiên sau nhiều tháng theo đuổi nỗ lực hòa bình và phi hạt nhân hóa bán đảo. Thông điệp cứng rắn này đồng thời thể hiện nỗi lo ngại của Bình Nhưỡng trước loại tiêm kích tàng hình tối tân có thể đe dọa nghiêm trọng đến các cơ sở hạt nhân, tên lửa trọng yếu cũng như toàn bộ lực lượng không quân của họ.
+
+Không quân Hàn Quốc đang biên chế một loạt tiêm kích thế hệ 4 hiện đại do Mỹ sản xuất, trong đó có hơn 100 chiếc KF-16C và khoảng 60 chiến đấu cơ F-15K Slam Eagle. Tiêm kích KF-16C đã được tích hợp đầy đủ tên lửa không đối không AIM-120C-5 và AIM-120C-7 thuộc dòng AMRAAM của Mỹ, giúp không quân Hàn Quốc hoàn toàn vượt trội so với các chiến đấu cơ trong biên chế Triều Tiên.
+
+Phần lớn tiêm kích của không quân Triều Tiên là các biến thể MiG-21 và J-7 chỉ được trang bị tên lửa không đối không tầm ngắn. Trong trường hợp nổ ra xung đột, tiêm kích KF-16C của Hàn Quốc hoàn toàn có thể phóng tên lửa AMRAAM từ khoảng cách rất xa rồi thoát ly trước khi chiến đấu cơ MiG của Triều Tiên kịp khóa mục tiêu. Khi giao chiến ở khoảng cách gần hơn, tiêm kích Triều Tiên cũng không thể đọ được về uy lực tên lửa và radar so với đối thủ.
+
+Trong khi đó, tiêm kích F-15K được chế tạo dựa trên mẫu F-15E của Mỹ và tập trung vào các nhiệm vụ tấn công mục tiêu mặt đất. Tiêm kích này được trang bị thiết bị ngắm mục tiêu Sniper có thể phát hiện và dẫn đường cho bom laser tiêu diệt các mục tiêu chiến thuật, chiến lược trên mặt đất.
+
+Câu hỏi đặt ra là tại sao Hàn Quốc vẫn muốn sở hữu F-35, khi đã có trong tay bộ đôi tiêm kích có thể áp đảo đối phương cả trên không lẫn dưới mặt đất. Theo Charlie Gao, chuyên gia về khoa học chính trị tại Đại học Grinnell, câu trả lời nằm ở năng lực chống tác chiến điện tử của F-35.
+
+Tiêm kích F-35 được trang bị các cảm biến quang điện tử rất mạnh có thể được dùng để tấn công máy bay, tên lửa đối phương trong môi trường bị gây nhiễu nặng. Trong tập trận Red Flag 2019, các cảm biến quan học của F-35 đóng vai trò rất lớn giúp tiêm kích này chiến thắng trong môi trường tác chiến điện tử, trong khi các tiêm kích thế hệ 4 như F-16C gần như bị "mù".
+
+Các chuyên gia dự đoán bất cứ tình huống giao tranh nào trên bán đảo Triều Tiên đều sẽ diễn ra trong môi trường tác chiến điện tử và gây nhiễu mạnh. Trong kịch bản đó, tiêm kích KF-16C và F-15K Hàn Quốc lại bất lợi trước MiG-29 Triều Tiên, vốn được trang bị các cảm biến quang điện tử chống tác chiến điện tử, dù không hiện đại như công nghệ hiện nay của Mỹ và Nga.
+
+Trong cuộc không chiến nổ ra trên bầu trời khu vực tranh chấp Kashmir tháng trước, cả Ấn Độ và Pakistan đều tuyên bố sử dụng tác chiến điện tử để giành lợi thế trong giao chiến. Ấn Độ nói rằng đã gây nhiễu radar chiến đấu cơ Pakistan, trong khi truyền thông nước này cho rằng tiêm kích MiG của họ bị bắn rơi là do Pakistan đã gây nhiễu đường truyền liên lạc giữa phi công với sở chỉ huy.
+
+Với việc biên chế tiêm kích tàng hình F-35 được trang bị các cảm biến và đường truyền liên lạc hiện đại, không quân Hàn Quốc có thể tránh được kịch bản tương tự nếu nổ ra xung đột với Triều Tiên. Hàn Quốc có thể bố trí F-35A bay cùng đội hình với tiêm kích thế hệ 4 để cung cấp bức tranh toàn cảnh về chiến trường và đảm bảo khả năng liên lạc, giúp nâng cao đáng kể uy lực tác chiến của toàn biên đội. Chiến thuật này cũng giúp khắc phục hạn chế của F-35 là mang theo được quá ít vũ khí trong khoang tàng hình bên trong thân.
+
+Không chỉ đe dọa đến các tiêm kích có trong biên chế không quân Triều Tiên, sự xuất hiện của tiêm kích F-35 trong biên chế không quân Hàn Quốc còn là hiểm họa đáng kể đối với chương trình tên lửa, hạt nhân của Bình Nhưỡng, do năng lực bí mật thâm nhập không phận và tung đòn hủy diệt của loại chiến đấu cơ này.
+
+Ba chuyên gia phòng thủ tên lửa Mỹ hồi tháng 2 xác nhận với Reuters rằng Lầu Năm Góc đã tiến hành một nghiên cứu trong 6 tháng nhằm tận dụng năng lực tàng hình của tiêm kích F-35 để qua mặt lưới phòng không Triều Tiên và dùng đạn đánh chặn bắn hạ những tên lửa tầm xa vừa rời khỏi bệ phóng của Bình Nhưỡng.
+
+Theo phương án tác chiến được vạch ra trong nghiên cứu, một nhóm tiêm kích tàng hình F-35 sẽ liên tục "vờn" quanh các bãi phóng tên lửa của Triều Tiên để giám sát tình hình. Khi phát hiện một tên lửa tầm xa được phóng lên nhắm về phía lãnh thổ Mỹ hoặc đồng minh, F-35 sẽ sử dụng các cảm biến hiện đại của mình để bám bắt mục tiêu và phóng ra một tên lửa không đối không đặc biệt để tiêu diệt tên lửa Triều Tiên trước khi nó ra khỏi khí quyển.
+
+Đây là giai đoạn các tên lửa đạn đạo xuyên lục địa dễ bị tổn thương nhất, bởi chúng đang bay với vận tốc thấp nhất, dễ bị phát hiện bởi nguồn nhiệt từ động cơ và không có khả năng cơ động để tránh đầu đạn đánh chặn. Ngoài F-35, Mỹ còn muốn tiêu diệt tên lửa trong giai đoạn này bằng các khí tài khác như pháo laser gắn trên máy bay không người lái.
+
+Các quan chức quân đội Mỹ cho biết F-35 là giải pháp họ muốn thử nghiệm đầu tiên trong chiến lược phòng thủ tên lửa này, bởi nó có thể sử dụng các khí tài sẵn có và sẵn sàng tác chiến sớm hơn so với các lá chắn tên lửa khác, trong khi chi phí rẻ hơn rất nhiều. "Chúng tôi cho rằng phương án này vừa tiết kiệm vừa nằm trong giới hạn về vật lý và toán học", Trợ lý Bộ trưởng Quốc phòng Mỹ về Nghiên cứu và Kỹ thuật Michael Griffin nói.
+
+Các chuyên gia chỉ ra rằng muốn đánh chặn tên lửa Triều Tiên sau khi rời bệ phóng, tiêm kích Mỹ và Hàn Quốc chỉ có khoảng 200 giây trước khi mục tiêu vươn tới độ cao nơi không khí quá loãng khiến đầu đạn đánh chặn rất khó cơ động. Trong khi đó, F-35 cần khoảng 50-60 giây để phát hiện, khóa mục tiêu và phóng đạn đánh chặn, theo Theodore Postol, chuyên gia phòng thủ tên lửa tại Viện Công nghệ Massachusetts.
+
+Phương án này chỉ khả thi khi tiêm kích F-35 hoạt động ở rất gần bãi phóng tên lửa của Triều Tiên. "Nếu tên lửa đánh chặn đặc biệt có thể bay với vận tốc gấp 5 lần âm thanh, tiêm kích F-35 phóng nó sẽ phải hoạt động trong bán kính 80 km xung quanh bệ phóng của Triều Tiên, thậm chí là gần hơn", Laura Grego, nhà vật lý nghiên cứu về phòng thủ tên lửa tại Hiệp hội Các nhà khoa học Có quan tâm (UCS), nói.
+
+Việc Hàn Quốc biên chế số lượng lớn F-35 sẽ tăng tính hiệu quả của chiến lược này, bởi nó có thể áp sát mục tiêu hơn rất nhiều so với các loại chiến đấu cơ không tàng hình. "Đây là một trong những lợi thế của F-35", tướng Mỹ về hưu David Deptula nói. Với lợi thế này, tiêm kích tàng hình của không quân Hàn Quốc có thể bí mật hoạt động trong không phận Triều Tiên và giám sát mọi động thái phóng tên lửa đạn đạo của Bình Nhưỡng.
+
+Việc Mỹ công bố nghiên cứu phương án sử dụng F-35 đối phó tên lửa Triều Tiên từ hồi tháng 1, ngay trước thềm hội nghị thượng đỉnh lần hai tại Hà Nội giữa Tổng thống Donald Trump và Chủ tịch Kim Jong-un, cho thấy Washington vẫn chưa hết lo ngại về mối đe dọa từ tên lửa tầm xa của Bình Nhưỡng. Tuy nhiên, các chuyên gia cũng chỉ ra rằng một cuộc xung đột nổ ra trên bán đảo Triều Tiên vẫn là kịch bản xa vời nếu các bên tiếp tục cam kết với nỗ lực ngoại giao và đối thoại để giải quyết khủng hoảng.
+Ngay dang: 
+Thứ hai, 8/4/2019, 11:38 (GMT+7)
+Link:  44
+Tieu de: 
+
+Đế chế gây dựng trên vàng của hoàng đế giàu nhất mọi thời đại 
+Tom tat: 
+Đế chế của hoàng đế Mali Mansa Musa từng nắm giữ một nửa lượng vàng của thế giới thế kỷ XIV.
+Noi dung: 
+
+Mansa Musa, hoàng đế Mali thế kỷ XIV, nổi tiếng khắp thế giới bởi sự giàu có và lối chi tiêu vô độ. Ông là người giàu nhất mọi thời đại với khối tài sản khổng lồ ngoài sức tưởng tượng.
+
+Thậm chí siêu tỷ phú giàu nhất thế giới hiện nay, người sáng lập đế chế thương mại điện tử Amazon Jeff Bezos với khối tài sản 131 tỷ USD, cũng không thể sánh kịp với vua Musa.
+
+Dưới sự cai trị của Musa, đế chế vốn đã thịnh vượng tiếp tục phát triển gấp ba lần, mở rộng lãnh thổ thêm hơn 3.000 km từ bờ biển Đại Tây Dương và bao trùm một khu vực tương đương 9 quốc gia Tây Phi ngày nay. Ông sáp nhập 24 thành phố, bao gồm trung tâm thương mại quan trọng Timbuktu.
+
+Đế chế phát triển đồng nghĩa với gia tài của Musa cũng sinh sôi nảy nở. Theo Bảo tàng Anh, dưới triều đại Musa, Mali nắm giữ một nửa lượng vàng của thế giới.
+
+"Là một hoàng đế, Mansa Musa có khả năng tiếp cận gần như vô hạn tới những nguồn của cải giá trị cao nhất thế giới Trung Cổ", Kathleen Bickford Berzock, chuyên gia về nghệ thuật châu Phi tại Đại học Northwestern, cho hay.
+
+"Các trung tâm thương mại lớn giao dịch bằng vàng và hàng hóa khác đều nằm trong lãnh thổ của Musa vì thế ông giàu lên nhanh chóng nhờ hoạt động thương mại này", Berzock giải thích.
+
+Đến năm 1324, thế giới bên ngoài mới bắt đầu chú ý tới gia tài khổng lồ của nhà vua Musa. Là một tín đồ Hồi giáo sùng đạo, Musa bắt đầu cuộc hành hương Hajj tới thánh địa Mecca cùng đoàn tùy tùng 60.000 người.
+
+Ông mang theo toàn bộ các thẩm phán, quan chức, thương nhân, sứ giả của mình cùng 12.000 nô lệ. Tất cả đều mặc trang phục lụa Ba Tư sang trọng, gấm thêu kim tuyến và trang sức bằng vàng ròng.
+
+Ibn Khaldun, một nhà sử học lúc bấy giờ, đã phỏng vấn những người đi cung hoàng đế Musa. Ông cho biết mỗi lần nghỉ chân, nhà vua lại thết đãi các cận thần những đồ ăn, thức uống hiếm và lạ. 12.000 nữ nô lệ có nhiệm vụ mang vác đồ đạc của nhà vua. Nô lệ cũng được mặc áo choàng bằng gấm thêu kim tuyến và lụa Yemen.
+
+Tới Cairo, Musa tiếp tục chi tiêu hoang phí, dùng một lượng lớn tiền vàng để mua hàng và quà tặng cho người dân nghèo trong thành phố. Dù hành động với thiện chí, sự hào phóng của hoàng đế Mali thực tế đã làm giảm giá trị vàng ở Ai Cập, khiến nền kinh tế bị ảnh hưởng nghiêm trọng. Ai Cập phải mất 12 năm để phục hồi.
+
+Theo tính toán từ công ty công nghệ SmartAsset.com, trụ sở ở Mỹ, cuộc hành hương của vua Musa đã khiến giá trị vàng sụt giảm, làm nền kinh tế khu vực Trung Đông thiệt hại 1,5 tỷ USD. Trên đường về nhà, Musa thậm chí đã cố gắng giúp nền kinh tế Ai Cập bằng cách mua lại vàng mà mình đã cho đi với lãi suất cao.
+
+Theo một số tài liệu, hoàng đế Musa chi tiêu nhiều tới mức lượng vàng ông mang theo hết trước khi hành trình kết thúc, làm dấy lên làn sóng phản đối từ người dân. Họ cho rằng ông đang lãng phí lượng tài nguyên lớn nên dùng để phát triển đế chế.
+
+Khép lại cuộc hành hương, Musa trở về từ Mecca với nhiều học giả Hồi giáo, trong đó có hậu duệ trực tiếp của nhà tiên tri Mohammad và một nhà thơ, kiến trúc sư nổi tiếng Abu Es Haq es Saheli, người được cho là đã thiết kế nên nhà thờ Hồi giáo Djinguereber ở Timbuktu.
+
+Vua Musa đã chi cho Saheli 200 kg vàng, tương đương 8,2 triệu USD ngày nay. Ông cũng đổ tiền xây dựng hàng loạt trường học và thư viện, biến Timbuktu trở thành trung tâm giáo dục, thu hút người từ khắp nơi trên thế giới tới học tập, nghiên cứu.
+
+Sau khi Mansa Musa qua đời vào năm 1337, các con trai ông nối ngôi nhưng không thể giữ vững đế chế. Các quốc gia nhỏ lần lượt tách ra và đế chế đã sụp đổ.
+Ngay dang: 
+Thứ hai, 8/4/2019, 11:35 (GMT+7)
+Link:  45
+Tieu de: 
+
+Nga có thể loại biên sớm tàu sân bay duy nhất 
+Tom tat: 
+Tàu sân bay Đô đốc Kuznetsov có thể bị loại khỏi biên chế hải quân Nga trước thời hạn do thiếu ụ sửa chữa và hoạt động kém hiệu quả.
+Noi dung: 
+
+Một nguồn tin hải quân Nga ngày 7/4 cho biết nước này đang xem xét sớm chấm dứt hoạt động và loại khỏi biên chế đối với tàu sân bay Đô đốc Kuznetsov sau khi ụ nổi PD-50, phương tiện duy nhất có thể sửa tàu sân bay của Nga, bị chìm hồi năm ngoái.
+
+PD-50, một trong những ụ nổi lớn nhất thế giới, hồi cuối tháng 10 bất ngờ gặp sự cố mất điện, khiến nước biển nhanh chóng tràn vào khoang và khiến nó bị chìm hoàn toàn. Sự cố khiến một cần cẩu bị sập, gây ra lỗ thủng lớn trên boong tàu Kuznetsov.
+
+Hiện tàu sân bay duy nhất của hải quân Nga đang chờ đợi quyết định về số phận của mình tại nhà máy sửa chữa tàu biển số 35 nằm tại vịnh Kola gần cảng Murmansk. Để trục vớt ụ nổi PD-50, Nga cần thời gian ít nhất từ 6 tháng đến một năm, cũng như sự hỗ trợ về kỹ thuật và trang thiết bị thay thế từ cộng đồng quốc tế, điều khó xảy ra khi Moskva đang hứng chịu một loạt lệnh cấm vận từ phương Tây.
+
+Theo giới quan sát, việc đóng một ụ nổi thay thế càng khó khăn hơn, trong bối cảnh ngân sách dành cho lực lượng tàu chiến mặt nước của Nga ngày càng eo hẹp. Nền kinh tế trì trệ cùng các biện pháp trừng phạt quốc tế gần đây buộc chính quyền của Tổng thống Valdimir Putin phải tính toán, đầu tư một cách có trọng điểm và tập trung mạnh vào lực lượng tàu ngầm.
+
+Trước khi ụ PD-50 bị chìm, việc duy trì Đô đốc Kuznetsov trong biên chế hải quân Nga cũng từng gây nhiều tranh cãi, khi con tàu liên tục gặp phải sự cố về kỹ thuật. Khi được triển khai tới Địa Trung Hải để tham chiến tại Syria năm 2017, Đô đốc Kuznetsov liên tục bị đứt cáp hãm đà, khiến không quân hải quân Nga mất một tiêm kích hạng nặng Su-33 và một chiến đấu cơ đa năng MiG-29K. Kuzetsov phải trở về nước ngay sau đó và được đưa lên ụ nổi PD-50 để đại tu.
+
+Nhà phân tích Mikhail Barabanov thuộc tạp chí Báo cáo Quốc phòng Moskva cho rằng kế hoạch nâng cấp Đô đốc Kuznetsov là lãng phí bởi tàu chỉ hoạt động như một nền tảng huấn luyện chứ không phải chiến đấu.
+Ngay dang: 
+Thứ hai, 8/4/2019, 13:56 (GMT+7)
+Link:  46
+Tieu de: 
+
+HAGL - vẻ đẹp lạc lối ở V-League	
+Tom tat: 
+
+Thất bại trên sân của Hải Phòng cuối tuần qua là trận thua thứ ba liên tiếp sau 4 vòng đấu của HAGL. Nhưng đó không phải là vấn đề duy nhất.	
+Noi dung: 
+
+Khán đài sân Lạch Tray, trận Hải Phòng - HAGL. Một nhóm CĐV của đội khách mặc đồng phục đẹp mắt, đứng hát hò cổ vũ gần như suốt trận. Trong khoảng gần 50 người ấy, chỉ có một vài gương mặt nam giới, đa phần là các cô gái trẻ, đẹp.
+
+Cách đây 4 năm, cũng nơi đây đã xảy ra hiện tượng sốt vé đối với chính CĐV chủ nhà, khi HAGL đến làm khách. Đó là năm đầu tiên lứa U19 được bầu Đức đôn lên đá V-League, tạo ra một cơn sốt về ngôi sao và bóng đá đẹp.
+
+Thời gian trôi qua, số lượng ít ỏi CĐV của HAGL trong trận đấu hôm thứ Bảy đã nói lên tất cả. Cầu thủ được chờ đợi nhất hiện nay của họ là Nguyễn Tuấn Anh chỉ được vào sân vài phút cuối. Những cơn đau dường như lại tái phát trên đôi chân vừa chữa trị chấn thương lần thứ ba trong vòng hai năm của tiền vệ tài hoa này. Lối chơi của HAGL thì bị bóp nghẹt bởi thế trận phòng thủ - phản công được tổ chức hợp lý của Hải Phòng, nên CĐV của họ trên khán đài cũng chẳng có nhiều dịp để reo hò. Không ngôi sao, cũng chẳng thể tấn công đẹp mắt, HAGL sau trận thua thứ ba liên tiếp mới có 3 điểm sau 4 vòng. Nếu không có gì bất ngờ, mùa này họ sẽ lại tiếp tục kết thúc mùa giải với vị trí từ thứ 10 trở xuống - như nhiều năm gần đây.
+
+Trong bóng đá, thành tích vẫn quyết định tất cả. Bốn năm liên tiếp, HAGL kết thúc ở nửa dưới bảng điểm, điều này cho thấy họ không có bất kỳ sự tiến bộ nào về chuyên môn. Số lượng cầu thủ HAGL được triệu tập lên đội tuyển quốc gia ngày càng giảm, trong khi đội hình đăng ký của họ trong mùa này chỉ có ba cầu thủ sinh sau năm 1997. Lứa cầu thủ thuộc các khóa 3 và khóa 4 của Học viện HAGL cũng chỉ có bốn người được gọi vào đội tuyển U19 Việt Nam. Như vậy, HAGL đang rơi vào tình trạng không còn ngôi sao cũng chẳng có tuyến kế thừa kịp lúc. Với chất lượng con người như vậy, dù thay HLV Dương Minh Ninh, triển vọng thành công của đội bóng phố núi cũng chẳng thể sáng sủa hơn. Ngay cả mục tiêu "chơi đẹp mà không quan tâm đến kết quả" - từng được bầu Đức xác định - cũng chẳng thể thực hiện. Con người như vậy, có muốn đá đẹp cũng không thể.
+
+Khi Công Phượng, Xuân Trường được đem cho mượn ở các CLB nước ngoài, những dấu hỏi đã được đặt ra. Cá nhân các cầu thủ này có phát triển được tài năng hay không thì chưa biết, vì điều đó còn phụ thuộc vào thành tích của đội bóng mà họ đang thi đấu. Nhưng, với những người ở lại như Tuấn Anh, Văn Thanh, Văn Toàn... thì thật không công bằng. Bởi, nếu những đồng đội ấy còn ở lại, rất có thể HAGL đã đạt thành tích tốt hơn.
+
+Hợp đồng của các lứa cầu thủ Học viện HAGL kéo dài đến khi họ 28 tuổi, chứ không phải là sau 23 tuổi sẽ được tự do ra đi như các đội bóng khác. Điều này có nghĩa, nếu HAGL không bán cho các CLB nước ngoài như chủ trương ban đầu của Học viện, thì các cầu thủ vẫn sẽ đá cho đội bóng chứ không được phép chuyển sang chơi cho CLB khác. Cũng có nghĩa, trong tình huống xấu nhất, dù đang là tuyển thủ, trụ cột của quốc gia nhưng nhiều cầu thủ HAGL sẽ không có được danh hiệu nội địa nào ở giai đoạn đỉnh cao của họ.
+
+Đóng góp của bầu Đức và HAGL với bóng đá Việt Nam là điều không phải bàn cãi. Tuy nhiên, chiến lược làm bóng đá của họ có vẻ như đang tồn tại nhiều mâu thuẫn, khiến cho vẻ đẹp thuở ban đầu dần lạc lối.
+Ngay dang: 
+Thứ hai, 8/4/2019, 14:19 (GMT+7)
+Link:  47
+Tieu de: 
+
+Chuyên gia: 'Quy hoạch lạc hậu, TP HCM phải đổi cách chống ngập' 
+Tom tat: 
+Với cách làm như hiện nay, các chuyên gia khẳng định, dù thành phố có huy động được cả trăm nghìn tỷ đồng cũng không hết ngập.
+Noi dung: 
+
+Sài Gòn vào mùa mưa nửa tháng nay, tình trạng ngập diễn ra thường xuyên khiến người dân luôn nơm nớp lo sợ mỗi khi ra đường. Hôm 19/5, trận mưa có vũ lượng gần 120 mm đã khiến 32 tuyến đường khắp các quận huyện biến thành sông. Có nơi nước sâu gần một mét, lút yên xe và kéo dài trong nhiều giờ.
+
+Trong khi đó TP HCM đã tập trung chống ngập từ 20 năm trước. Đây là nơi đầu tiên và duy nhất trong cả nước có Trung tâm chống ngập - cơ quan chuyên trách việc chống ngập. Tuy nhiên, thành phố đã đầu tư hàng chục nghìn tỷ đồng nhưng tình trạng ngập vẫn chưa cải thiện. Có nhiều nguyên nhân được chỉ ra, song chủ yếu do thiếu vốn nên các công trình chưa hoàn thiện.
+
+Theo kỹ sư Vũ Hải - người có hơn 50 năm công tác trong lĩnh vực cấp thoát nước (nguyên giảng viên ĐH Bách khoa và ĐH Xây dựng Hà Nội), với cách làm hiện nay, thành phố nếu có huy động được số tiền rất lớn cũng không thể hết ngập, mà phải thay đổi tư duy mới mong hiệu quả.
+
+Ông Hải cho rằng, thành phố cần phải lập quy hoạch tổng thể thoát nước đến năm 2030 và tầm nhìn đến 2050, bởi 3 quy hoạch thoát nước thành phố đang triển khai đều đã lạc hậu.
+
+Bên cạnh đó, quy hoạch này cũng chưa đề cập đến vấn đề chống ngập do triều, biến đổi khí hậu khiến nước biển dâng và sụt lún do khai thác nước ngầm quá mức. Đó là chưa kể kinh phí đầu tư theo quy hoạch này quá lớn, khó hoàn thành.
+
+"Để cấp bách chống ngập, TP HCM cần lập bản đồ số hóa hiện trạng hệ thống thoát nước thành phố. Đây là tài liệu rất quan trọng, công cụ đắc lực cho công tác quản lý, thiết kế, thi công, quy hoạch hệ thống thoát nước cũng như biết rõ và dự báo về tình hình ngập lụt để có biện pháp khắc phục kịp thời", ông Hải nói.
+
+Vấn đề này, theo ông Hải, từ năm 2015 Trung tâm chống ngập đã triển khai nhưng chỉ mới ở một số quận nội thành và chưa biết khi nào mới xong. Thành phố cần hoàn thành việc này ngay trong năm để phục vụ công tác chống ngập.
+
+Về lâu dài, ông Hải cho rằng thành phố nên lập hội đồng khoa học thẩm định cách tính toán thiết kế các dự án chống ngập. Không nên gộp chung nước mưa và nước thải để xây dựng các nhà máy xử lý tập trung lớn mà phải phân tán ra…
+
+"Thành phố nên đấu thầu rộng rãi để tư nhân tham gia thực hiện các dự án chống ngập. Đơn vị nào thực hiện không hiệu quả, có thể xử lý. Còn nếu chỉ giao cho các đơn vị nhà nước như hiện nay thì không biết ai chịu trách nhiệm", ông Hải nói.
+
+TS.KTS Ngô Viết Nam Sơn (chuyên gia trong lĩnh vực quy hoạch) cho rằng, thành phố cần nhìn vào thực tế, các công trình chống ngập theo các quy hoạch chỉ giải quyết một số khu vực, nên dù có tiền làm tất cả các dự án đó cũng không thể đảm bảo hết ngập. Bởi việc chống ngập không hoàn toàn phụ thuộc vào các công trình như đê, cống thoát nước hay hồ điều tiết vì có nhiều khu vực cao vẫn ngập do bị bê tông hóa, nước không còn lối thoát hoặc có thể do quy hoạch, quản lý sai lầm.
+
+"Chống ngập đòi hỏi phải có một chiến lược tổng hợp, đa ngành trong khi thành phố đang làm lẻ tẻ, cục bộ và vẫn đang ở mức đối phó, thấy ngập chỗ nào thì giải quyết chỗ đó. Làm như lâu nay, ngập chỉ chạy từ chỗ này sang chỗ kia chứ không thể hết", ông Sơn nói.
+
+Theo ông, việc chống ngập ở TP HCM cần phải có một "nhạc trưởng" ở cấp cao hơn cấp giám đốc Sở, vì việc này cần sự hợp tác của nhiều sở ngành. Hiện, thành phố có một Phó chủ tịch phụ trách đô thị nhưng đang gánh quá nhiều việc, không thể tập trung vào công tác này. Do đó cần có một người đóng vai "nhạc trưởng" chỉ lo chuyện ngập nước và kẹt xe mới mong giải quyết được.
+
+"Ngập đô thị là vấn đề đa ngành gồm: quy hoạch, quản lý đô thị, giao thông, xây dựng, nhưng thành phố đang giao hết trách nhiệm cho Trung tâm chống ngập là chưa đúng. Giám đốc Trung tâm này chỉ ngang tầm Giám đốc Sở thì không thể nói ông sở nghe được", ông Sơn nêu quan điểm.
+
+"Cần chấm dứt tình trạng cứ ngập là quy trách nhiệm cho Trung tâm chống ngập. Không phải cứ lập ra một trung tâm chuyên chống ngập thì sẽ có 'chiếc đũa thần' giúp thành phố hết ngập. Thật ra, trung tâm này chỉ là một đơn vị phụ trách hạ tầng thoát nước và đây chỉ là một phần nhỏ của việc chống ngập", ông Sơn nói.
+Ngay dang: 
+Thứ ba, 29/5/2018, 10:02 (GMT+7)
+Link:  48
+Tieu de: 
+Mùa hoa ô môi hồng rực rỡ ở miền Tây
+Tom tat: 
+
+Đầu tháng 4, hoa ô môi gắn liền với bao thế hệ người dân An Giang, Đồng Tháp... bung nở trên các nẻo đường quê.	
+Noi dung: 
+Ngay dang: 
+Thứ hai, 8/4/2019, 14:05 (GMT+7)
+Link:  49
+Tieu de: 
+
+Gang thép Thái Nguyên nguy cơ phá sản	
+Tom tat: 
+
+Nợ phải trả gấp 4,65 lần vốn chủ sở hữu, các ngân hàng hạ mức đánh giá xếp hạng tài chính... khiến TISCO lâm vào cảnh rất khó khăn.	
+Noi dung: 
+
+Trong tài liệu gửi tới cổ đông chuẩn bị cuộc họp Đại hội đồng cổ đông vào 10/4 tới, lãnh đạo Công ty cổ phần Gang thép Thái Nguyên (TISCO) nhìn nhận, hiện doanh nghiệp này đang lâm vào tình trạng cực kỳ khó khăn, mất cân đối tài chính nghiêm trọng.
+
+"Nguy cơ khủng hoảng tài chính dẫn tới phá sản đang hiện hữu tại doanh nghiệp nếu không được Chính phủ, các ngân hàng và cấp có thẩm quyền giải cứu kịp thời", báo cáo của Hội đồng quản trị TISCO nêu. 
+
+Trong khi đó, báo cáo Ban kiểm soát nêu khá rõ bức tranh tài chính khó khăn của doanh nghiệp này. Vốn điều lệ của TISCO tới cuối năm 2018 gần 1.937 tỷ đồng, nhưng nợ phải trả chiếm khoảng 82% cơ cấu vốn. Vốn chủ sở hữu chiếm 18% tổng nguồn vốn, theo Ban kiểm soát, là tỷ lệ thấp, thấp hơn năm 2017 khi doanh nghiệp này mất cân đối tài chính.
+
+"Nợ phải trả quá nhiều, gấp 4,65 lần vốn chủ sở hữu cho thấy cơ cấu vốn của TISCO không an toàn. Ngoài ra, khả năng thanh toán của công ty hiện là 0,7 lần, doanh nghiệp đang trong tình trạng tài chính "đặc biệt khó khăn, có khả năng không trả được các khoản nợ đến hạn".
+
+Ban Kiểm soát cho rằng, công ty cần có giải pháp kịp thời tăng vốn chủ sở hữu, thu hồi nợ xấu. Tới cuối tháng 12/2018, các khoản nợ xấu của công ty gần 852 tỷ đồng, giá trị có thể thu hồi hơn 393,3 tỷ.
+
+Dự án mở rộng giai đoạn 2 Gang thép Thái Nguyên triển khai từ năm 2007 nhưng đến nay các hạng mục dự án chưa hoàn thành. Dự án này có tổng mức đầu tư dự tính ban đầu gần 3.844 tỷ đồng và dự toán điều chỉnh được phê duyệt là hơn 8.105 tỷ. Tổng chi phí đầu tư tới cuối năm 2018 là 5.093 tỷ đồng, trong đó chi phí lãi vay 1.888 tỷ. 
+
+Năm 2015 dự án này bị đưa vào danh sách 12 dự án thua lỗ nghìn tỷ và Thanh tra Chính phủ cũng chỉ ra nhiều sai phạm trong kết luận mới công bố. 
+
+Theo Hội đồng quản trị TISCO, năm 2015 doanh nghiệp này đã phát hành cổ phiếu riêng lẻ cho Tổng công ty đầu tư và kinh doanh vốn Nhà nước (SCIC) 1.000 tỷ đồng, nhằm thanh toán cho các hạng mục đầu tư của dự án mở rộng giai đoạn 2 Gang thép Thái Nguyên. Nhưng 2 năm sau, SCIC đã rút 1.000 tỷ đồng này (khoảng 100 triệu cổ phần) theo chỉ đạo của Thủ tướng, khiến quy mô vốn điều lệ của TISCO xuống còn 1.840 tỷ đồng, các chỉ tiêu tài chính của doanh nghiệp cũng xấu đi. 
+
+Mặt khác, do dự án mở rộng giai đoạn 2 tạm dừng, và chưa có hướng giải quyết nên các nhà băng cho vay vốn đã hạ mức đánh giá tài chính của TISCO xuống mức thấp; tăng lãi vay lên 8% một năm... làm doanh nghiệp gặp khó khăn lớn trong cân đối dòng tiền.
+
+Hội đồng quản trị công ty cho biết đã cung cấp tài liệu làm việc, giải trình và đề xuất kiến nghị với các ban ngành liên quan, nhằm tháo gỡ khó khăn để ổn định sản xuất kinh doanh và tiếp tục thực hiện dự án, nhưng đến nay vẫn chưa được tháo gỡ. Điều này ảnh hưởng tiêu cực đến thực hiện sản xuất kinh doanh của công ty và tư tưởng người lao động.
+
+Tại thời gian thanh tra, tổng giá trị TISCO thanh toán cho dự án là hơn 4.400 tỷ đồng; tổng dư nợ gốc, lãi vay ngân hàng phải trả trên 3.800 tỷ đồng (hiện lãi vay phải trả hơn 40 tỷ đồng một tháng), trong đó thanh toán cho MCC trên 92% giá trị hợp đồng nhưng các hạng mục của dự án đều chưa hoàn thành. Đến năm 2013 MCC và các nhà thầu đã dừng thi công. TISCO đã thanh toán thay MCC tiền thuế (11,6 triệu USD) và chi phí xếp dỡ, bảo quản thiết bị, trong khi MCC chưa chuyển đủ thiết bị, cung cấp nhiều máy móc sai khác về xuất xứ, thông số kỹ thuật, không phù hợp với quy chuẩn Việt Nam với giá trị xác định bước đầu là 38,8 triệu USD.
+
+"Hiện một số thiết bị đã gỉ sét, hư hỏng, ảnh hưởng nghiêm trọng đến tiến độ, chất lượng dự án, thiệt hại vốn đầu tư", kết luận thanh tra nêu.
+
+Bên cạnh khuyết điểm, sai phạm của TISCO, VnSteel, cơ quan thanh tra cho rằng Bộ Công Thương chưa thực hiện đầy đủ chức năng nhiệm vụ được giao liên quan đến dự án.
+
+Về xử lý trách nhiệm, Thanh tra Chính phủ đã chuyển kết luận thanh tra đến Ủy ban Kiểm tra Trung ương để xem xét, xử lý theo thẩm quyền đối với cán bộ, đảng viên thuộc diện Bộ Chính trị, Ban Bí thư quản lý có liên quan đến khuyết điểm, sai phạm nêu tại Kết luận thanh tra. Đồng thời kiến nghị Thủ tướng chỉ đạo Bộ Công an khẩn trương điều tra những vi phạm có dấu hiệu hình sự tại dự án.
+
+Bế tắc trong giải quyết tồn đọng tại dự án mở rộng giai đoạn 2 Gang thép Thái Nguyên cũng được ông Nguyễn Đình Phúc - Tổng giám đốc Tổng công ty Thép Việt Nam (chiếm 65% vốn tại TISCO) một lần nữa nêu tại cuộc họp Ban chỉ đạo xử lý 12 dự án thua lỗ nghìn tỷ, diễn ra đầu tháng 4. 
+
+Ông Phúc cho biết hiện nay việc đàm phán với nhà thầu MCC vẫn gặp khó khăn. Điều kiện tiên quyết là phải tăng vốn đầu tư thêm 100 triệu USD để hoàn thành dứt điểm dự án, nên Tổng công ty Thép đang chờ ý kiến của Bộ Tư pháp về xử lý pháp lý. Tuy nhiên, đại diện Bộ Tư pháp cho rằng phía công ty phải làm rõ các vướng mắc, cáo bạch rõ thực trạng dự án để xử lý theo hướng có lợi hơn.
+
+Chỉ đạo tại cuộc họp, Phó thủ tướng Vương Đình Huệ yêu cầu, sớm bàn giao Tổng công ty Thép từ Bộ Công Thương về SCIC, để thực hiện xử lý dứt điểm hợp đồng EPC và khoản giải chấp bảo lãnh còn vướng mắc để sớm tiến hành cổ phần hóa.
+Ngay dang: 
+Thứ hai, 8/4/2019, 03:00 (GMT+7)
+>>> 
